@@ -119,7 +119,7 @@ Maplo runs on GitHub Pages at https://dineshpera.github.io/maplo/ (first deploye
 - `.github/workflows/update.yml` refreshes jobs daily at 06:00 IST and map data on Mondays, then commits `data/`, `site/data/` and the share pages. Run it by hand from the Actions tab when needed.
 - `.github/workflows/pages.yml` publishes `site/` after every push to `main` and after each successful data update.
 - `SITE_URL` in `pipeline/build.py` is the public address, so link previews get an absolute image URL. Change it if you move to your own domain.
-- Still to do: set `REPO_ISSUES` in `site/app.js` (for example `https://github.com/Dineshpera/maplo/issues/new`) so people can send corrections.
+- Corrections: "Suggest a correction" links (list footer, and each building and company page) open the issue form in `.github/ISSUE_TEMPLATE/correction.yml`, with the title filled in. The address is `REPO_ISSUES` in `site/app.js`.
 
 ## Next
 

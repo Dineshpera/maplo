@@ -3,7 +3,7 @@
 (() => {
   "use strict";
   const BRAND = "Maplo";            // the name also appears in index.html, manifest.webmanifest and pipeline/build.py
-  const REPO_ISSUES = "";           // e.g. "https://github.com/<you>/maplo/issues/new" once the repo is public
+  const REPO_ISSUES = "https://github.com/Dineshpera/maplo/issues/new?template=correction.yml"; // corrections form
   const KEY = "maplo:";
   const CENTER = [78.372, 17.437];
 
@@ -453,7 +453,7 @@
     markSeen("c", c.id);
   }
 
-  const suggestLink = what => REPO_ISSUES ? `<a href="${esc(REPO_ISSUES)}?title=${encodeURIComponent("Correction: " + what)}" target="_blank" rel="noopener">${icon("ext")}${esc(t("suggest"))}</a>` : "";
+  const suggestLink = what => REPO_ISSUES ? `<a href="${esc(REPO_ISSUES + (REPO_ISSUES.includes("?") ? "&" : "?") + "title=" + encodeURIComponent("Correction: " + what))}" target="_blank" rel="noopener">${icon("ext")}${esc(t("suggest"))}</a>` : "";
   const host = u => { try { return new URL(u).host.replace(/^www\./, ""); } catch { return u; } };
 
   // ---------- search ----------

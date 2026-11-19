@@ -1,0 +1,28 @@
+name: Correction
+description: Something on Maplo is wrong or missing (a company, building, floor or job link).
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: what
+    attributes:
+      label: Company or building
+      placeholder: "e.g. HighRadius, Building 12C, Mindspace"
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What's wrong, and what should it say?
+      placeholder: "e.g. They moved to the 4th floor of Building 9 in 2026."
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Public source link
+      description: Maplo only shows facts it can point to, such as the company's own contact page or a public address listing.
+      placeholder: "https://…"
+  - type: markdown
+    attributes:
+      value: "Please don't post personal details (phone numbers, employee names). Issues are public."
