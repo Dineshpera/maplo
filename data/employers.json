@@ -1,0 +1,889 @@
+[
+ {
+  "id": "highradius",
+  "name": "HighRadius",
+  "sector": "Fintech SaaS",
+  "website": "https://www.highradius.com",
+  "board": {
+   "ats": "greenhouse",
+   "token": "highradius"
+  },
+  "offices": [
+   {
+    "building": "Building 12C, Mindspace",
+    "osm": "w502048933",
+    "floor": "1st floor",
+    "address": "1st Floor, Building No. 12C, Mindspace, HITEC City, Madhapur, Hyderabad 500081",
+    "source": "https://www.tofler.in/highradius-technologies-private-limited/company/U72200TG2007PTC054122"
+   }
+  ]
+ },
+ {
+  "id": "zscaler",
+  "name": "Zscaler",
+  "sector": "Cybersecurity",
+  "website": "https://www.zscaler.com",
+  "board": {
+   "ats": "greenhouse",
+   "token": "zscaler"
+  },
+  "offices": [
+   {
+    "building": "Building 9, Mindspace (WeWork)",
+    "osm": "w68907576",
+    "floor": "15th floor",
+    "address": "WeWork Raheja Mindspace, 15th Floor, Building 9, HITEC City, Madhapur, Hyderabad 500081",
+    "source": "https://builtin.com/company/zscaler/offices"
+   }
+  ]
+ },
+ {
+  "id": "newrelic",
+  "name": "New Relic",
+  "sector": "Observability",
+  "website": "https://newrelic.com",
+  "board": {
+   "ats": "greenhouse",
+   "token": "newrelic"
+  },
+  "offices": [
+   {
+    "building": "Building 9, Mindspace",
+    "osm": "w68907576",
+    "address": "Building No. 9, Raheja Mindspace, HITEC City, Hyderabad 500081",
+    "source": "https://builtinhyderabad.in/job/manager-software-engineering/9843922"
+   }
+  ]
+ },
+ {
+  "id": "deliveroo",
+  "name": "Deliveroo",
+  "sector": "Food delivery (engineering centre)",
+  "website": "https://careers.deliveroo.co.uk",
+  "board": {
+   "ats": "greenhouse",
+   "token": "deliveroo"
+  },
+  "offices": [
+   {
+    "building": "Orbit (iSprout), Raidurg",
+    "osm": "w1409480797",
+    "address": "Orbit iSprout, Raidurg, Hyderabad",
+    "source": "https://careers.deliveroo.co.uk/locations/india"
+   }
+  ]
+ },
+ {
+  "id": "zenoti",
+  "name": "Zenoti",
+  "sector": "Salon & spa SaaS",
+  "website": "https://www.zenoti.com",
+  "board": {
+   "ats": "greenhouse",
+   "token": "zenoti"
+  },
+  "offices": [
+   {
+    "building": "RMZ Futura, Block A",
+    "address": "RMZ Futura Block A, Plot No 14 & 15, Phase 2, Madhapur, Hyderabad 500081",
+    "source": "https://www.registerkaro.in/company/zenoti-india-private-limited-U72300TG2015PTC097184"
+   }
+  ]
+ },
+ {
+  "id": "tide",
+  "name": "Tide",
+  "sector": "Fintech (global development centre)",
+  "website": "https://www.tide.co",
+  "board": {
+   "ats": "greenhouse",
+   "token": "tide"
+  },
+  "offices": [
+   {
+    "building": "Plot No. 19, Software Units Layout",
+    "floor": "Level 13",
+    "address": "Level 13, Plot No. 19, Software Units Layout, Madhapur, Hyderabad 500081",
+    "source": "https://www.tofler.in/tide-platform-private-limited/company/U72900TG2020FTC139019"
+   }
+  ]
+ },
+ {
+  "id": "druva",
+  "name": "Druva",
+  "sector": "Data protection SaaS",
+  "website": "https://www.druva.com",
+  "board": {
+   "ats": "greenhouse",
+   "token": "druva"
+  }
+ },
+ {
+  "id": "cred",
+  "name": "CRED",
+  "sector": "Fintech",
+  "website": "https://careers.cred.club",
+  "board": {
+   "ats": "lever",
+   "token": "cred"
+  }
+ },
+ {
+  "id": "meesho",
+  "name": "Meesho",
+  "sector": "E-commerce",
+  "website": "https://www.meesho.io",
+  "board": {
+   "ats": "lever",
+   "token": "meesho"
+  }
+ },
+ {
+  "id": "cognizant",
+  "name": "Cognizant",
+  "aliases": [
+   "Cognizant Technologies",
+   "Cognizant Technology Solutions"
+  ],
+  "sector": "IT services",
+  "website": "https://www.cognizant.com",
+  "offices": [
+   {
+    "building": "Building 12A, Raheja Mindspace",
+    "address": "Building No. 12A, Raheja Mindspace IT Park, HITEC City, Hyderabad",
+    "source": "https://www.guvi.in/blog/?p=73219"
+   }
+  ]
+ },
+ {
+  "id": "accenture",
+  "name": "Accenture",
+  "sector": "IT services & consulting",
+  "website": "https://www.accenture.com",
+  "offices": [
+   {
+    "building": "Accenture HDC 1, Raheja Mindspace",
+    "address": "Accenture HDC 1, Raheja Mindspace, HITEC City, Madhapur, Hyderabad",
+    "source": "https://www.guvi.in/blog/?p=73219"
+   }
+  ],
+  "board": {
+   "ats": "workday",
+   "host": "accenture.wd103.myworkdayjobs.com",
+   "sitemaps": [
+    "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/siteMap.xml",
+    "https://accenture.wd103.myworkdayjobs.com/AccentureLeadershipCareers/siteMap.xml",
+    "https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/siteMap.xml",
+    "https://accenture.wd103.myworkdayjobs.com/AvanadeLeadershipCareers/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "micron",
+  "name": "Micron Technology",
+  "sector": "Semiconductors",
+  "website": "https://www.micron.com",
+  "board": {
+   "ats": "workday",
+   "host": "micron.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://micron.wd1.myworkdayjobs.com/External/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "Micron"
+  ],
+  "offices": [
+   {
+    "building": "The Skyview 20",
+    "osm": "w793742592",
+    "floor": "7th floor",
+    "address": "The Skyview 20, 7th Floor, Sy. No. 83/1, Raidurgam, Madhapur, Hyderabad 500081",
+    "source": "https://builtinchennai.in/company/micron-technology/offices"
+   },
+   {
+    "building": "Phoenix Aquila, Gachibowli",
+    "address": "Phoenix Aquila, Gachibowli, Hyderabad (most Micron Hyderabad job postings are listed at this site)",
+    "source": "https://micron.wd1.myworkdayjobs.com/External"
+   }
+  ]
+ },
+ {
+  "id": "roche",
+  "name": "Roche",
+  "sector": "Pharma (Roche Services & Solutions)",
+  "website": "https://www.roche.com",
+  "board": {
+   "ats": "workday",
+   "host": "roche.wd3.myworkdayjobs.com",
+   "sitemaps": [
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/siteMap.xml",
+    "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/siteMap.xml",
+    "https://roche.wd3.myworkdayjobs.com/mysugr-ext/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "invesco",
+  "name": "Invesco",
+  "sector": "Asset management",
+  "website": "https://www.invesco.com",
+  "board": {
+   "ats": "workday",
+   "host": "invesco.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://invesco.wd1.myworkdayjobs.com/IVZ/siteMap.xml",
+    "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/siteMap.xml"
+   ]
+  },
+  "offices": [
+   {
+    "building": "Divyasree Orion SEZ, Block 6 North Tower",
+    "floor": "15th floor",
+    "address": "Divyasree Orion SEZ, Raidurgam, 15th Floor, Block 6, North Tower, Serilingampally, Hyderabad 500032",
+    "source": "https://www.invesco.com/corporate/about-us/firm-overview/locations"
+   }
+  ]
+ },
+ {
+  "id": "lloyds",
+  "name": "Lloyds Technology Centre",
+  "sector": "Banking (Lloyds Banking Group)",
+  "website": "https://www.lloydsbankinggroup.com",
+  "board": {
+   "ats": "workday",
+   "host": "lbg.wd3.myworkdayjobs.com",
+   "sitemaps": [
+    "https://lbg.wd3.myworkdayjobs.com/broadbean_external/siteMap.xml",
+    "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/siteMap.xml",
+    "https://lbg.wd3.myworkdayjobs.com/LBG_HigherApprenticeCareers/siteMap.xml",
+    "https://lbg.wd3.myworkdayjobs.com/Undergraduate_careers/siteMap.xml",
+    "https://lbg.wd3.myworkdayjobs.com/LBG_Singapore/siteMap.xml",
+    "https://lbg.wd3.myworkdayjobs.com/Graduate_careers/siteMap.xml",
+    "https://lbg.wd3.myworkdayjobs.com/Lloyds_Technology_Centre/siteMap.xml",
+    "https://lbg.wd3.myworkdayjobs.com/USA_Careers/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "Lloyds Banking Group"
+  ],
+  "offices": [
+   {
+    "building": "Salarpuria Sattva Knowledge Park, Tower 2",
+    "osm": "w1133460475",
+    "address": "Knowledge Park Tower 2, Knowledge City, Hyderabad (location label on most Lloyds Technology Centre job postings)",
+    "source": "https://lbg.wd3.myworkdayjobs.com/broadbean_external"
+   }
+  ]
+ },
+ {
+  "id": "msd",
+  "name": "MSD",
+  "sector": "Pharma (Hyderabad Tech Centre)",
+  "website": "https://www.msd.com",
+  "board": {
+   "ats": "workday",
+   "host": "msd.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://msd.wd5.myworkdayjobs.com/SearchJobs/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "Merck"
+  ],
+  "offices": [
+   {
+    "building": "HITEC City, Raidurg",
+    "address": "MSD Hyderabad Tech Centre, HITEC City, Raidurg (location label on MSD job postings; building not published)",
+    "source": "https://msd.wd5.myworkdayjobs.com/SearchJobs"
+   }
+  ]
+ },
+ {
+  "id": "vanguard",
+  "name": "Vanguard",
+  "sector": "Asset management",
+  "website": "https://www.vanguard.com",
+  "board": {
+   "ats": "workday",
+   "host": "vanguard.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/siteMap.xml",
+    "https://vanguard.wd5.myworkdayjobs.com/contractors_restricted/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "pwc",
+  "name": "PwC",
+  "sector": "Professional services",
+  "website": "https://www.pwc.in",
+  "board": {
+   "ats": "workday",
+   "host": "pwc.wd3.myworkdayjobs.com",
+   "sitemaps": [
+    "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/siteMap.xml",
+    "https://pwc.wd3.myworkdayjobs.com/Catalyst/siteMap.xml",
+    "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/siteMap.xml",
+    "https://pwc.wd3.myworkdayjobs.com/Global_Strategyand_Careers/siteMap.xml",
+    "https://pwc.wd3.myworkdayjobs.com/Acquisition/siteMap.xml",
+    "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/siteMap.xml",
+    "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/siteMap.xml",
+    "https://pwc.wd3.myworkdayjobs.com/Global_Recruitment_Events/siteMap.xml",
+    "https://pwc.wd3.myworkdayjobs.com/Global_Legal_Careers/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "PricewaterhouseCoopers"
+  ],
+  "offices": [
+   {
+    "building": "Salarpuria (Hyderabad)",
+    "address": "\"Hyderabad – Salarpuria\" is the location label on most PwC Hyderabad job postings; the exact Salarpuria building is not stated",
+    "source": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers"
+   }
+  ]
+ },
+ {
+  "id": "factset",
+  "name": "FactSet",
+  "sector": "Financial data",
+  "website": "https://www.factset.com",
+  "board": {
+   "ats": "workday",
+   "host": "factset.wd108.myworkdayjobs.com",
+   "sitemaps": [
+    "https://factset.wd108.myworkdayjobs.com/FactSetCareers/siteMap.xml",
+    "https://factset.wd108.myworkdayjobs.com/Mesh/siteMap.xml"
+   ]
+  },
+  "offices": [
+   {
+    "building": "Divyasree Orion SEZ, Block 4 (Divyasree 3)",
+    "floor": "7, 8, 9, 11",
+    "address": "DVS SEZ 1 – Orion Block 4, floors 7, 8, 9, 11 (Divyasree 3), Hyderabad",
+    "source": "https://factset.wd108.myworkdayjobs.com/FactSetCareers"
+   }
+  ]
+ },
+ {
+  "id": "jnj",
+  "name": "Johnson & Johnson",
+  "sector": "Healthcare (JJT India Capability Center)",
+  "website": "https://www.careers.jnj.com",
+  "board": {
+   "ats": "workday",
+   "host": "jj.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://jj.wd5.myworkdayjobs.com/JJ/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "bofa",
+  "name": "Bank of America",
+  "sector": "Banking",
+  "website": "https://careers.bankofamerica.com",
+  "board": {
+   "ats": "workday",
+   "host": "ghr.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://ghr.wd1.myworkdayjobs.com/lateral-apac/siteMap.xml",
+    "https://ghr.wd1.myworkdayjobs.com/lateral-ba_continuum/siteMap.xml",
+    "https://ghr.wd1.myworkdayjobs.com/lateral-canada/siteMap.xml",
+    "https://ghr.wd1.myworkdayjobs.com/lateral-emea/siteMap.xml",
+    "https://ghr.wd1.myworkdayjobs.com/lateral-latam/siteMap.xml",
+    "https://ghr.wd1.myworkdayjobs.com/Lateral-US/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "Bank of America"
+  ]
+ },
+ {
+  "id": "genpact",
+  "name": "Genpact",
+  "sector": "IT & business services",
+  "website": "https://www.genpact.com",
+  "board": {
+   "ats": "workday",
+   "host": "genpact.wd108.myworkdayjobs.com",
+   "sitemaps": [
+    "https://genpact.wd108.myworkdayjobs.com/campussite/siteMap.xml",
+    "https://genpact.wd108.myworkdayjobs.com/External_Careers/siteMap.xml"
+   ]
+  },
+  "offices": [
+   {
+    "building": "Phoenix, Hafeezpet",
+    "floor": "1 to 12",
+    "address": "Floors 1 to 12, Phoenix, Hafeezpet, Hyderabad (location label on Genpact job postings)",
+    "source": "https://genpact.wd108.myworkdayjobs.com/campussite"
+   },
+   {
+    "building": "Uppal STPI",
+    "address": "14-45, Uppal STPI, Hyderabad (location label on Genpact job postings; outside the HITEC City corridor)",
+    "source": "https://genpact.wd108.myworkdayjobs.com/campussite"
+   }
+  ]
+ },
+ {
+  "id": "amgen",
+  "name": "Amgen",
+  "sector": "Biotech (Amgen India)",
+  "website": "https://www.amgen.com",
+  "board": {
+   "ats": "workday",
+   "host": "amgen.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://amgen.wd1.myworkdayjobs.com/Careers/siteMap.xml"
+   ]
+  },
+  "offices": [
+   {
+    "building": "RMZ Nexity, Tower 20",
+    "osm": "w122796944",
+    "address": "RMZ Nexity Tower 20 and RMZ Spire Tower 110, HITEC City, Hyderabad",
+    "source": "https://bioprocessintl.com/bioprocess-insider/amgen-expands-global-footprint-with-tech-center-in-india"
+   }
+  ]
+ },
+ {
+  "id": "gsk",
+  "name": "GSK",
+  "sector": "Pharma",
+  "website": "https://www.gsk.com",
+  "board": {
+   "ats": "workday",
+   "host": "gsk.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://gsk.wd5.myworkdayjobs.com/GSKCareers/siteMap.xml",
+    "https://gsk.wd5.myworkdayjobs.com/ViiV_Careers/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "rtx",
+  "name": "RTX",
+  "sector": "Aerospace (Collins, Pratt & Whitney)",
+  "website": "https://careers.rtx.com",
+  "board": {
+   "ats": "workday",
+   "host": "globalhr.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "Collins Aerospace",
+   "Pratt & Whitney"
+  ],
+  "offices": [
+   {
+    "building": "DLF Cybercity Gachibowli, Block 3",
+    "osm": "w116098923",
+    "floor": "7th floor",
+    "address": "DLF Cybercity Gachibowli, Block 3, 7th Floor, Plot Nos. 129–132, APHB Colony, Gachibowli, Hyderabad 500032 (Collins Aerospace)",
+    "source": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway"
+   },
+   {
+    "building": "Plot No. 12, Sarvotham Building",
+    "address": "Plot No. 12, Sarvotham Building, Hyderabad (location label on some RTX job postings)",
+    "source": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway"
+   }
+  ]
+ },
+ {
+  "id": "statestreet",
+  "name": "State Street",
+  "sector": "Financial services",
+  "website": "https://www.statestreet.com",
+  "board": {
+   "ats": "workday",
+   "host": "statestreet.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://statestreet.wd1.myworkdayjobs.com/Global/siteMap.xml",
+    "https://statestreet.wd1.myworkdayjobs.com/eQuest/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "sanofi",
+  "name": "Sanofi",
+  "sector": "Pharma",
+  "website": "https://www.sanofi.com",
+  "board": {
+   "ats": "workday",
+   "host": "sanofi.wd3.myworkdayjobs.com",
+   "sitemaps": [
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/siteMap.xml"
+   ]
+  },
+  "offices": [
+   {
+    "building": "HITEC City campus",
+    "address": "Sanofi Global Capability Centre, HITEC City campus (building not published)",
+    "source": "https://www.siasat.com/sanofi-expands-global-capability-centre-in-hyderabad-to-add-jobs-3350743"
+   }
+  ]
+ },
+ {
+  "id": "evernorth",
+  "name": "Evernorth (Cigna)",
+  "sector": "Health services",
+  "website": "https://www.evernorth.com",
+  "board": {
+   "ats": "workday",
+   "host": "cigna.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://cigna.wd5.myworkdayjobs.com/cignacareers/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "Cigna",
+   "Evernorth"
+  ]
+ },
+ {
+  "id": "novartis",
+  "name": "Novartis",
+  "sector": "Pharma",
+  "website": "https://www.novartis.com",
+  "board": {
+   "ats": "workday",
+   "host": "novartis.wd3.myworkdayjobs.com",
+   "sitemaps": [
+    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/siteMap.xml",
+    "https://novartis.wd3.myworkdayjobs.com/SwissRAVSwitzerlandCareerSite/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "medtronic",
+  "name": "Medtronic",
+  "sector": "Medical devices",
+  "website": "https://www.medtronic.com",
+  "board": {
+   "ats": "workday",
+   "host": "medtronic.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/siteMap.xml"
+   ]
+  },
+  "offices": [
+   {
+    "building": "Nanakramguda",
+    "address": "Medtronic, Nanakramguda, Hyderabad (building not published)",
+    "source": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers"
+   }
+  ]
+ },
+ {
+  "id": "broadridge",
+  "name": "Broadridge",
+  "sector": "Fintech",
+  "website": "https://www.broadridge.com",
+  "board": {
+   "ats": "workday",
+   "host": "broadridge.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://broadridge.wd5.myworkdayjobs.com/Careers/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "broadcom",
+  "name": "Broadcom",
+  "sector": "Semiconductors & software",
+  "website": "https://www.broadcom.com",
+  "board": {
+   "ats": "workday",
+   "host": "broadcom.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://broadcom.wd1.myworkdayjobs.com/External_Career/siteMap.xml"
+   ]
+  },
+  "offices": [
+   {
+    "building": "Building 9, Mindspace",
+    "osm": "w68907576",
+    "floor": "9th floor",
+    "address": "No. 3 & 4, 9th Floor, Building No. 9, K. Raheja Mindspace, HITEC City, Madhapur, Hyderabad 500081 (registered office of Broadcom India Technologies)",
+    "source": "https://www.infyner.com/finance/broadcom-india-technologies/U72200TG2004PTC043628"
+   }
+  ]
+ },
+ {
+  "id": "thomsonreuters",
+  "name": "Thomson Reuters",
+  "sector": "Information services",
+  "website": "https://www.thomsonreuters.com",
+  "board": {
+   "ats": "workday",
+   "host": "thomsonreuters.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/siteMap.xml",
+    "https://thomsonreuters.wd5.myworkdayjobs.com/Private_External_Career_Site/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "cadence",
+  "name": "Cadence",
+  "sector": "Chip design software",
+  "website": "https://www.cadence.com",
+  "board": {
+   "ats": "workday",
+   "host": "cadence.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://cadence.wd1.myworkdayjobs.com/External_Careers/siteMap.xml",
+    "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/siteMap.xml",
+    "https://cadence.wd1.myworkdayjobs.com/women-in-tech-scholarship/siteMap.xml",
+    "https://cadence.wd1.myworkdayjobs.com/OpenEye_Careers/siteMap.xml",
+    "https://cadence.wd1.myworkdayjobs.com/University_Talent/siteMap.xml",
+    "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/siteMap.xml",
+    "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/siteMap.xml",
+    "https://cadence.wd1.myworkdayjobs.com/University_CST/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "Cadence Design Systems"
+  ]
+ },
+ {
+  "id": "salesforce",
+  "name": "Salesforce",
+  "sector": "SaaS",
+  "website": "https://www.salesforce.com",
+  "board": {
+   "ats": "workday",
+   "host": "salesforce.wd12.myworkdayjobs.com",
+   "sitemaps": [
+    "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/siteMap.xml",
+    "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/siteMap.xml",
+    "https://salesforce.wd12.myworkdayjobs.com/Mulesoft_Careersite/siteMap.xml",
+    "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/siteMap.xml",
+    "https://salesforce.wd12.myworkdayjobs.com/Salesforce_Research/siteMap.xml",
+    "https://salesforce.wd12.myworkdayjobs.com/Tableau/siteMap.xml",
+    "https://salesforce.wd12.myworkdayjobs.com/Datorama/siteMap.xml",
+    "https://salesforce.wd12.myworkdayjobs.com/Heroku/siteMap.xml",
+    "https://salesforce.wd12.myworkdayjobs.com/Slack/siteMap.xml"
+   ]
+  },
+  "offices": [
+   {
+    "building": "Salesforce India campus",
+    "osm": "w297099095",
+    "address": "Salesforce India Private Limited (as mapped on OpenStreetMap)",
+    "source": "https://www.openstreetmap.org/way/297099095"
+   }
+  ]
+ },
+ {
+  "id": "hitachi",
+  "name": "Hitachi",
+  "sector": "Technology",
+  "website": "https://www.hitachi.com",
+  "board": {
+   "ats": "workday",
+   "host": "hitachi.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://hitachi.wd1.myworkdayjobs.com/hitachi/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "elevance",
+  "name": "Elevance Health (Carelon)",
+  "sector": "Health services",
+  "website": "https://www.elevancehealth.com",
+  "board": {
+   "ats": "workday",
+   "host": "elevancehealth.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://elevancehealth.wd1.myworkdayjobs.com/ANT/siteMap.xml",
+    "https://elevancehealth.wd1.myworkdayjobs.com/Legato_Israel/siteMap.xml",
+    "https://elevancehealth.wd1.myworkdayjobs.com/carelonglobal_in/siteMap.xml",
+    "https://elevancehealth.wd1.myworkdayjobs.com/carelonglobal_ph/siteMap.xml",
+    "https://elevancehealth.wd1.myworkdayjobs.com/IRL/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "Carelon"
+  ],
+  "offices": [
+   {
+    "building": "Avance Business Hub",
+    "osm": "w1152313427",
+    "address": "Phoenix Avance Business Hub, HITEC City, Hyderabad (location label on Elevance Health / Carelon job postings)",
+    "source": "https://elevancehealth.wd1.myworkdayjobs.com/ANT"
+   }
+  ]
+ },
+ {
+  "id": "pg",
+  "name": "Procter & Gamble",
+  "sector": "Consumer goods",
+  "website": "https://www.pgcareers.com",
+  "board": {
+   "ats": "workday",
+   "host": "pg.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://pg.wd5.myworkdayjobs.com/1000/siteMap.xml",
+    "https://pg.wd5.myworkdayjobs.com/1001/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "P&G"
+  ]
+ },
+ {
+  "id": "marvell",
+  "name": "Marvell",
+  "sector": "Semiconductors",
+  "website": "https://www.marvell.com",
+  "board": {
+   "ats": "workday",
+   "host": "marvell.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/siteMap.xml",
+    "https://marvell.wd1.myworkdayjobs.com/Scout/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "lseg",
+  "name": "LSEG",
+  "sector": "Financial data & markets",
+  "website": "https://www.lseg.com",
+  "board": {
+   "ats": "workday",
+   "host": "lseg.wd3.myworkdayjobs.com",
+   "sitemaps": [
+    "https://lseg.wd3.myworkdayjobs.com/Careers/siteMap.xml",
+    "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/siteMap.xml",
+    "https://lseg.wd3.myworkdayjobs.com/Microsoft_Partnership/siteMap.xml"
+   ]
+  },
+  "aliases": [
+   "London Stock Exchange Group"
+  ]
+ },
+ {
+  "id": "carrier",
+  "name": "Carrier",
+  "sector": "Building technology",
+  "website": "https://www.carrier.com",
+  "board": {
+   "ats": "workday",
+   "host": "carrier.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://carrier.wd5.myworkdayjobs.com/jobs/siteMap.xml",
+    "https://carrier.wd5.myworkdayjobs.com/kgs_jobs/siteMap.xml"
+   ]
+  },
+  "offices": [
+   {
+    "building": "Building 12C, Mindspace",
+    "osm": "w502048933",
+    "floor": "9, 10, 11 (and Building 12B)",
+    "address": "Building No 12C, Floors 9–11, and Building No 12B, Raheja Mindspace, Madhapur, Hyderabad 500081",
+    "source": "https://carrier.wd5.myworkdayjobs.com/jobs"
+   }
+  ]
+ },
+ {
+  "id": "commvault",
+  "name": "Commvault",
+  "sector": "Data protection",
+  "website": "https://www.commvault.com",
+  "board": {
+   "ats": "greenhouse",
+   "token": "commvault"
+  }
+ },
+ {
+  "id": "sigmoid",
+  "name": "Sigmoid",
+  "sector": "Data engineering & AI",
+  "website": "https://www.sigmoid.com",
+  "board": {
+   "ats": "greenhouse",
+   "token": "sigmoid"
+  }
+ },
+ {
+  "id": "notion",
+  "name": "Notion",
+  "sector": "Productivity software",
+  "website": "https://www.notion.com",
+  "board": {
+   "ats": "ashby",
+   "token": "notion"
+  },
+  "offices": [
+   {
+    "building": "HITEC City",
+    "address": "Notion's Hyderabad office, HITEC City (building not published)",
+    "source": "https://www.notion.com/blog/new-office-same-mission-engineering-notions-future-in-hyderabad"
+   }
+  ]
+ },
+ {
+  "id": "gainsight",
+  "name": "Gainsight",
+  "sector": "Customer success SaaS",
+  "website": "https://www.gainsight.com",
+  "board": {
+   "ats": "ashby",
+   "token": "gainsight"
+  },
+  "offices": [
+   {
+    "building": "Divyasree Trinity, Madhapur",
+    "osm": "w1120726023",
+    "address": "DivyaSree Trinity, Madhapur, Hyderabad (800-seat office opened July 2022)",
+    "source": "https://bizzbuzz.news/industry/gainsight-opens-new-office-in-hyd-1153463"
+   }
+  ]
+ },
+ {
+  "id": "thoughtworks",
+  "name": "ThoughtWorks",
+  "sector": "Software consultancy",
+  "website": "https://www.thoughtworks.com",
+  "board": {
+   "ats": "ashby",
+   "token": "thoughtworks"
+  }
+ },
+ {
+  "id": "coupa",
+  "name": "Coupa",
+  "sector": "Spend management SaaS",
+  "website": "https://www.coupa.com",
+  "board": {
+   "ats": "lever",
+   "token": "coupa"
+  },
+  "offices": [
+   {
+    "building": "Orwell block, Salarpuria Sattva Knowledge City",
+    "osm": "w551147907",
+    "floor": "1st floor",
+    "address": "1st Floor, Orwell Block, Salarpuria Sattva Knowledge City, Hyderabad (pinned at the Knowledge City campus; block not mapped)",
+    "source": "https://builtin.com/company/coupa-software-0/offices"
+   }
+  ]
+ },
+ {
+  "id": "egen",
+  "name": "Egen",
+  "sector": "Data & cloud services",
+  "website": "https://egen.ai",
+  "board": {
+   "ats": "lever",
+   "token": "egen"
+  }
+ }
+]

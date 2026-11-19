@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+# Internal planning notes and local tool settings stay off the public repo.
+docs/
+.claude/

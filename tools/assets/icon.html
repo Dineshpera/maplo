@@ -1,0 +1,24 @@
+<!doctype html>
+<!-- App icon template. tools/make_assets.sh renders it with headless Chrome.
+     ?v=any       rounded tile on transparent (favicon, "any" icons)
+     ?v=maskable  full-bleed tile, glyph kept inside the 80% safe zone (Android adaptive icons)
+     ?v=apple     full-bleed tile, no transparency (iOS rounds the corners itself) -->
+<html><head><meta charset="utf-8"><style>
+html,body{margin:0;width:100vw;height:100vh;background:transparent;overflow:hidden}
+svg{display:block;width:100vw;height:100vh}
+</style></head><body>
+<svg id="s" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"></svg>
+<script>
+const v = new URLSearchParams(location.search).get("v") || "any";
+const glyph = `<path d="M32 9.5c-9.7 0-17.5 7.6-17.5 17C14.5 39.2 32 55 32 55s17.5-15.8 17.5-28.5c0-9.4-7.8-17-17.5-17z" fill="#fff"/>
+<rect x="24" y="21" width="7" height="13" rx="1.2" fill="#172B3A"/><rect x="32.5" y="15" width="8" height="19" rx="1.2" fill="#172B3A"/>
+<g fill="#fff"><rect x="26" y="24" width="3" height="2" rx=".5"/><rect x="26" y="28.5" width="3" height="2" rx=".5"/><rect x="35" y="18.5" width="3" height="2" rx=".5"/><rect x="35" y="23" width="3" height="2" rx=".5"/><rect x="35" y="27.5" width="3" height="2" rx=".5"/></g>
+<rect x="22" y="34" width="20" height="2.6" rx="1.3" fill="#172B3A"/>
+<circle cx="48.5" cy="14.5" r="5.5" fill="#13A37F" stroke="#fff" stroke-width="2.6"/>`;
+const s = document.getElementById("s");
+if (v === "any") s.innerHTML = `<rect width="64" height="64" rx="16" fill="#F45B35"/>${glyph}`;
+else {
+  const k = v === "maskable" ? 0.74 : 0.86, o = 32 * (1 - k);
+  s.innerHTML = `<rect width="64" height="64" fill="#F45B35"/><g transform="translate(${o} ${o + (v === "maskable" ? 1 : 0.5)}) scale(${k})">${glyph}</g>`;
+}
+</script></body></html>
