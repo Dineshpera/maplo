@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20",
+ "fetched_at": "2026-11-19",
  "companies": {
   "highradius": [
    {
@@ -11,13 +11,13 @@
    {
     "title": "Agent Product Builder",
     "location": "Hyderabad, Telangana, India",
-    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7734235003",
+    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7734268003",
     "updated": "2026-08-18"
    },
    {
     "title": "Agent Product Builder",
     "location": "Hyderabad, Telangana, India",
-    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7734268003",
+    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7734235003",
     "updated": "2026-08-18"
    },
    {
@@ -77,8 +77,8 @@
    {
     "title": "Forward Deployed Architect II",
     "location": "Hyderabad, Telangana, India",
-    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7807744003",
-    "updated": "2026-09-01"
+    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7811494003",
+    "updated": "2026-09-11"
    },
    {
     "title": "Forward Deployed Architect II",
@@ -95,8 +95,8 @@
    {
     "title": "Forward Deployed Architect II",
     "location": "Hyderabad, Telangana, India",
-    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7811494003",
-    "updated": "2026-09-11"
+    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7807744003",
+    "updated": "2026-09-01"
    },
    {
     "title": "Forward Deployed Engineer (AP)",
@@ -113,14 +113,14 @@
    {
     "title": "Forward Deployed Engineer II",
     "location": "Hyderabad, Telangana, India",
-    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7705552003",
-    "updated": "2026-08-27"
+    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7700843003",
+    "updated": "2026-09-01"
    },
    {
     "title": "Forward Deployed Engineer II",
     "location": "Hyderabad, Telangana, India",
-    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7700843003",
-    "updated": "2026-09-01"
+    "url": "https://www.highradius.com/about/careers-list/?gh_jid=7705552003",
+    "updated": "2026-08-27"
    },
    {
     "title": "Functional Consultant",
@@ -433,13 +433,19 @@
    {
     "title": "Senior Implementation Consultant",
     "location": "Hyderabad, Telangana, India",
+    "url": "https://job-boards.greenhouse.io/zenoti/jobs/7799421003",
+    "updated": "2026-10-22"
+   },
+   {
+    "title": "Senior Implementation Consultant",
+    "location": "Hyderabad, Telangana, India",
     "url": "https://job-boards.greenhouse.io/zenoti/jobs/7821167003",
     "updated": "2026-10-22"
    },
    {
     "title": "Senior Implementation Consultant",
     "location": "Hyderabad, Telangana, India",
-    "url": "https://job-boards.greenhouse.io/zenoti/jobs/7799421003",
+    "url": "https://job-boards.greenhouse.io/zenoti/jobs/7795653003",
     "updated": "2026-10-22"
    },
    {
@@ -447,12 +453,6 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://job-boards.greenhouse.io/zenoti/jobs/7958272003",
     "updated": "2026-10-29"
-   },
-   {
-    "title": "Senior Implementation Consultant",
-    "location": "Hyderabad, Telangana, India",
-    "url": "https://job-boards.greenhouse.io/zenoti/jobs/7795653003",
-    "updated": "2026-10-22"
    },
    {
     "title": "Senior Manager -  Product Management (Payments/Fintech)",
@@ -511,7 +511,7 @@
    {
     "title": "Senior Software Engineer - .NET + AI",
     "location": "Hyderabad, Telangana, India",
-    "url": "https://job-boards.greenhouse.io/zenoti/jobs/8004492003",
+    "url": "https://job-boards.greenhouse.io/zenoti/jobs/8004504003",
     "updated": "2026-09-29"
    },
    {
@@ -523,7 +523,7 @@
    {
     "title": "Senior Software Engineer - .NET + AI",
     "location": "Hyderabad, Telangana, India",
-    "url": "https://job-boards.greenhouse.io/zenoti/jobs/8004504003",
+    "url": "https://job-boards.greenhouse.io/zenoti/jobs/8004492003",
     "updated": "2026-09-29"
    },
    {
@@ -4244,15 +4244,15 @@
     "location": "Hyderabad India",
     "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Systems-Analysis-Associate-Advisor----HIH---Evernorth_26014091",
     "updated": ""
-   },
-   {
-    "title": "Agile Product Owner Advisor – HIH – Evernorth",
-    "location": "Hyderabad India",
-    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Owner-Advisor---HIH---Evernorth_26013424",
-    "updated": ""
    }
   ],
   "novartis": [
+   {
+    "title": "PS PV Intern",
+    "location": "Hyderabad Office",
+    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/PS-PV-Intern_REQ-10092315-1",
+    "updated": ""
+   },
    {
     "title": "Manager – IC Design",
     "location": "Hyderabad Office",
