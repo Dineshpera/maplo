@@ -2,6 +2,8 @@
 
 **Who works where in Hyderabad's IT corridor, and who is hiring there right now.**
 
+**Live:** https://dineshpera.github.io/maplo/
+
 > The name "Maplo" was chosen on 20 Nov 2026. Before launch, check the trademark (IP India, classes 9, 35 and 42), the domains and the social handles by hand. The name lives in `BRAND` in `site/app.js` and `pipeline/build.py`, and in `site/index.html` and `site/manifest.webmanifest`.
 
 Maplo covers HITEC City, Mindspace, Madhapur, Kondapur, Gachibowli, Raidurg / Knowledge City and Financial District. It works in English and Telugu, and it runs at ₹0.
@@ -112,17 +114,18 @@ Add an entry to `data/employers.json`:
 
 ## Deploy at ₹0
 
-1. Push to a public GitHub repo.
-2. Turn on GitHub Pages, or connect Cloudflare Pages with `site/` as the output folder.
-3. Set `SITE_URL` in `pipeline/build.py` to the public address (for example `https://maplo.in`) and run the build. This makes the preview-image links absolute, which WhatsApp needs to show the picture.
-4. `.github/workflows/update.yml` refreshes jobs daily at 06:00 IST and map data on Mondays. It commits `data/`, `site/data/` and the share pages.
-5. Set `REPO_ISSUES` in `site/app.js` so people can send corrections.
+Maplo runs on GitHub Pages at https://dineshpera.github.io/maplo/ (first deployed 20 Nov 2026).
+
+- `.github/workflows/update.yml` refreshes jobs daily at 06:00 IST and map data on Mondays, then commits `data/`, `site/data/` and the share pages. Run it by hand from the Actions tab when needed.
+- `.github/workflows/pages.yml` publishes `site/` after every push to `main` and after each successful data update.
+- `SITE_URL` in `pipeline/build.py` is the public address, so link previews get an absolute image URL. Change it if you move to your own domain.
+- Still to do: set `REPO_ISSUES` in `site/app.js` (for example `https://github.com/Dineshpera/maplo/issues/new`) so people can send corrections.
 
 ## Next
 
 - **Before launch:**
   - Trademark, domain and handle checks for "Maplo".
-  - Set `SITE_URL` once the domain is known, then test a shared link in WhatsApp.
+  - Test a shared link in WhatsApp. If a custom domain is added later, update `SITE_URL`.
   - Try the install button and offline mode on a real Android phone and an iPhone.
 - **Camera v2:** read signboards on the phone with Tesseract.js and combine that with the v1 candidates.
 - **More pins:** add the missing buildings to OpenStreetMap (RMZ Futura, Phoenix Aquila, Divyasree Orion), and add more Workday tenants.
