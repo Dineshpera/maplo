@@ -58,6 +58,13 @@
 "jobs": 0,
 "name": "airtel"
 },
+"allen-career-institute-manikonda-residential-campus": {
+"buildings": [
+"w1341465971"
+],
+"jobs": 0,
+"name": "ALLEN Career Institute - Manikonda Residential Campus"
+},
 "amazon": {
 "buildings": [
 "n11099906805",
@@ -98,7 +105,7 @@
 "buildings": [
 "w122796944"
 ],
-"jobs": 17,
+"jobs": 21,
 "name": "Amgen"
 },
 "ams-semiconductors-india-pvt-ltd": {
@@ -210,7 +217,7 @@
 "buildings": [
 "w89898294"
 ],
-"jobs": 16,
+"jobs": 17,
 "name": "Bank of America"
 },
 "bosch-limited": {
@@ -236,7 +243,7 @@
 },
 "broadridge": {
 "buildings": [
-"n13531355143"
+"w846889810"
 ],
 "jobs": 5,
 "name": "Broadridge"
@@ -250,7 +257,7 @@
 },
 "cadence": {
 "buildings": [],
-"jobs": 3,
+"jobs": 4,
 "name": "Cadence"
 },
 "cadvision-engineers-pvt-ltd": {
@@ -271,7 +278,7 @@
 "buildings": [
 "w502048933"
 ],
-"jobs": 1,
+"jobs": 2,
 "name": "Carrier"
 },
 "celebrity-prime-developers": {
@@ -287,13 +294,6 @@
 ],
 "jobs": 0,
 "name": "Center for Organization Developement"
-},
-"centre-for-quantum-science-technology": {
-"buildings": [
-"n13545320662"
-],
-"jobs": 0,
-"name": "Centre for Quantum Science & Technology"
 },
 "chekhra-business-solutions-private-limited": {
 "buildings": [
@@ -322,6 +322,13 @@
 ],
 "jobs": 0,
 "name": "CLR Facility Services Pvt Ltd"
+},
+"cognitivebotics": {
+"buildings": [
+"n14369902379"
+],
+"jobs": 0,
+"name": "CognitiveBotics"
 },
 "cognizant": {
 "buildings": [
@@ -362,7 +369,7 @@
 "buildings": [
 "w551147907"
 ],
-"jobs": 2,
+"jobs": 1,
 "name": "Coupa"
 },
 "cred": {
@@ -559,7 +566,7 @@
 },
 "evernorth": {
 "buildings": [],
-"jobs": 10,
+"jobs": 9,
 "name": "Evernorth (Cigna)"
 },
 "facebook-india": {
@@ -571,7 +578,7 @@
 },
 "factset": {
 "buildings": [],
-"jobs": 27,
+"jobs": 25,
 "name": "FactSet"
 },
 "fanista-advisors": {
@@ -653,7 +660,7 @@
 },
 "genpact": {
 "buildings": [],
-"jobs": 18,
+"jobs": 20,
 "name": "Genpact"
 },
 "global-logic-technologies": {
@@ -740,7 +747,7 @@
 },
 "hitachi": {
 "buildings": [],
-"jobs": 2,
+"jobs": 1,
 "name": "Hitachi"
 },
 "hsbc-group-service-centre": {
@@ -829,7 +836,7 @@
 },
 "invesco": {
 "buildings": [],
-"jobs": 44,
+"jobs": 47,
 "name": "Invesco"
 },
 "isb-admission-office": {
@@ -959,7 +966,7 @@
 },
 "lab-of-spatial-informatics-lsi": {
 "buildings": [
-"w211078709"
+"w1578309122"
 ],
 "jobs": 0,
 "name": "Lab of Spatial Informatics (LSI)"
@@ -1003,7 +1010,7 @@
 "buildings": [
 "w1133460475"
 ],
-"jobs": 46,
+"jobs": 44,
 "name": "Lloyds Technology Centre"
 },
 "logic-planet-it-services-pvt-ltd": {
@@ -1038,11 +1045,6 @@
 ],
 "jobs": 0,
 "name": "MAQ Software"
-},
-"marvell": {
-"buildings": [],
-"jobs": 1,
-"name": "Marvell"
 },
 "mass-mutual-building": {
 "buildings": [
@@ -1088,7 +1090,7 @@
 },
 "medtronic": {
 "buildings": [],
-"jobs": 6,
+"jobs": 4,
 "name": "Medtronic"
 },
 "meesho": {
@@ -1251,7 +1253,7 @@
 "w292769248",
 "w558351785"
 ],
-"jobs": 7,
+"jobs": 10,
 "name": "Novartis"
 },
 "nucleus": {
@@ -1366,7 +1368,7 @@
 },
 "precog": {
 "buildings": [
-"w211078709"
+"w1578309122"
 ],
 "jobs": 0,
 "name": "Precog"
@@ -1490,7 +1492,7 @@
 "buildings": [
 "w297099095"
 ],
-"jobs": 2,
+"jobs": 4,
 "name": "Salesforce"
 },
 "sanofi": {
@@ -1596,7 +1598,7 @@
 },
 "software-engineering-research-centre": {
 "buildings": [
-"w211078709"
+"w1578309122"
 ],
 "jobs": 0,
 "name": "Software Engineering Research Centre"
@@ -1624,7 +1626,7 @@
 },
 "statestreet": {
 "buildings": [],
-"jobs": 15,
+"jobs": 13,
 "name": "State Street"
 },
 "sufisoft-pvt-ltd": {
@@ -1824,7 +1826,7 @@
 },
 "vanguard": {
 "buildings": [],
-"jobs": 25,
+"jobs": 28,
 "name": "Vanguard"
 },
 "varsity-management-pvt-ltd": {
@@ -1945,13 +1947,6 @@
 ],
 "jobs": 0,
 "name": "Wellsfargo"
-},
-"western-pearl": {
-"buildings": [
-"w342064398"
-],
-"jobs": 0,
-"name": "Western Pearl"
 },
 "westernaqua": {
 "buildings": [
