@@ -85,8 +85,9 @@
   "offices": [
    {
     "building": "RMZ Futura, Block A",
-    "address": "RMZ Futura Block A, Plot No 14 & 15, Phase 2, Madhapur, Hyderabad 500081",
-    "source": "https://www.registerkaro.in/company/zenoti-india-private-limited-U72300TG2015PTC097184"
+    "address": "RMZ Futura Block A, Plot No 14 & 15, Hitech city Phase 2, Madhapur, Hyderabad, Telangana 500081",
+    "source": "https://www.zenoti.com/company",
+    "checked": "2026-11-22"
    }
   ]
  },
@@ -101,10 +102,11 @@
   },
   "offices": [
    {
-    "building": "Plot No. 19, Software Units Layout",
+    "building": "Sanali Spazio, Software Units Layout",
     "floor": "Level 13",
-    "address": "Level 13, Plot No. 19, Software Units Layout, Madhapur, Hyderabad 500081",
-    "source": "https://www.tofler.in/tide-platform-private-limited/company/U72900TG2020FTC139019"
+    "address": "Level 13, Sanali Spazio, Plot No. 19, Software Units Layout, Madhapur, Hyderabad 500081",
+    "source": "https://www.emis.com/php/company-profile/IN/Tide_Platform_Technology_And_Servicing_Private_Limited_en_22297190.html",
+    "checked": "2026-11-22"
    }
   ]
  },
@@ -572,9 +574,12 @@
   },
   "offices": [
    {
-    "building": "Nanakramguda",
-    "address": "Medtronic, Nanakramguda, Hyderabad (building not published)",
-    "source": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers"
+    "building": "BSR Tech Park Block 1",
+    "osm": "w1235251873",
+    "floor": "3rd floor",
+    "address": "Medtronic Engineering & Innovation Center, BSR IT / ITES SEZ, 3rd Floor, Block 1, Nanakramguda Village, Serilingampally Mandal, Hyderabad, Telangana 500008",
+    "source": "https://www.medtronic.com/in-en/our-company/locations.html",
+    "checked": "2026-11-22"
    }
   ]
  },
@@ -675,7 +680,8 @@
     "building": "Salesforce India campus",
     "osm": "w297099095",
     "address": "Salesforce India Private Limited (as mapped on OpenStreetMap)",
-    "source": "https://www.openstreetmap.org/way/297099095"
+    "source": "https://www.openstreetmap.org/way/297099095",
+    "building_name": "Block 5, Divyasree Orion SEZ"
    }
   ]
  },
@@ -767,6 +773,14 @@
   },
   "aliases": [
    "London Stock Exchange Group"
+  ],
+  "offices": [
+   {
+    "building": "CapitaLand Block A, International Tech Park Hyderabad",
+    "address": "CapitaLand Block A, International Tech Park Hyderabad, Survey No. 64/2, Plot No 17, Software Units Layout, Madhapur, Hyderabad 500081",
+    "source": "https://www.lseg.com/en/careers/where-we-work/hyderabad-india",
+    "checked": "2026-11-22"
+   }
   ]
  },
  {
@@ -800,7 +814,17 @@
   "board": {
    "ats": "greenhouse",
    "token": "commvault"
-  }
+  },
+  "offices": [
+   {
+    "building": "Atria, International Tech Park Hyderabad (Ascendas)",
+    "osm": "w570972113",
+    "floor": "10th floor",
+    "address": "Plot No. 17, 10th Floor, Atria, Ascendas IT Park, Software Units Layout, Madhapur, Hyderabad, Telangana 500081",
+    "source": "https://www.tofler.in/commvault-systems-india-private-limited/company/U72200TG2004PTC043232",
+    "checked": "2026-11-22"
+   }
+  ]
  },
  {
   "id": "sigmoid",

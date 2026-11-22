@@ -265,6 +265,9 @@ def main():
                 bmap.setdefault(bid, {"id": bid, "name": o["building"], "lat": o["lat"], "lon": o["lon"],
                                       "park": o.get("park") or park_of(pt), "area": nearest_area(pt),
                                       "levels": None, "companies": [], "source": o["source"]})
+            if bid and o.get("building_name"):
+                # Display-name fix for a mapped building whose OSM name is wrong (for example vandalised).
+                bmap[bid]["name"] = o["building_name"]
             # bid stays None when we know the address but the building is not on the map yet.
             # conf: "verified" = a public page names this building; "area" = only the address/area is published.
             companies[e["id"]]["offices"].append({"building": bid, "label": o["building"], "floor": o.get("floor"),

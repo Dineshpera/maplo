@@ -345,7 +345,9 @@
 "name": "Colruyt IT Consultancy India Pvt. Ltd."
 },
 "commvault": {
-"buildings": [],
+"buildings": [
+"w570972113"
+],
 "jobs": 0,
 "name": "Commvault"
 },
@@ -1099,7 +1101,9 @@
 "name": "Medisis info"
 },
 "medtronic": {
-"buildings": [],
+"buildings": [
+"w1235251873"
+],
 "jobs": 2,
 "name": "Medtronic"
 },
