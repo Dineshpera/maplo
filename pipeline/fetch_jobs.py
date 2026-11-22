@@ -11,6 +11,7 @@ We keep only title, location, link and date, and always link back to the employe
 
 Usage: python3 pipeline/fetch_jobs.py   -> data/raw/jobs.json
 """
+import datetime
 import json
 import pathlib
 import time
@@ -90,11 +91,16 @@ def workday(board):
     these counts as "at least".
     """
     import re
-    out, seen = [], set()
+    out, seen, listed = [], set(), 0
     for sm in board["sitemaps"]:
         with urllib.request.urlopen(urllib.request.Request(sm, headers=UA), timeout=40) as r:
             xml = r.read().decode("utf8", "ignore")
-        for loc in re.findall(r"<loc>([^<]+)</loc>", xml):
+        if "<urlset" not in xml:
+            # During Workday maintenance a sitemap URL can answer 200 with a holding page instead of XML.
+            raise ValueError(f"not a sitemap: {sm}")
+        locs = re.findall(r"<loc>([^<]+)</loc>", xml)
+        listed += len(locs)
+        for loc in locs:
             m = re.search(r"/job/([^/]+)/([^/?]+)$", loc)
             if not m or not is_hyd(m.group(1)) or m.group(2) in seen:
                 continue
@@ -104,16 +110,23 @@ def workday(board):
             place = m.group(1).replace("---", ", ").replace("-", " ")
             out.append({"title": title, "location": place, "url": loc, "updated": ""})
         time.sleep(1)
+    if not listed:
+        raise ValueError("sitemaps list no jobs at all")  # an empty board is a broken feed, not a hiring stop
     return out
 
 
 FETCHERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "workable": workable, "workday": workday}
 
 
+HOLD_DAYS = 2  # how many days a sudden drop to 0 is treated as a feed problem before we believe it
+
+
 def main():
     employers = json.loads(EMPLOYERS.read_text())
     previous = json.loads(OUT.read_text()) if OUT.exists() else {"companies": {}, "partial": []}
-    result = {"fetched_at": time.strftime("%Y-%m-%d"), "companies": {}, "partial": []}
+    today = time.strftime("%Y-%m-%d")
+    result = {"fetched_at": today, "companies": {}, "partial": []}
+    held_before = previous.get("held", {})
     for e in employers:
         board = e.get("board")
         if not board:
@@ -121,12 +134,22 @@ def main():
         try:
             fn = FETCHERS[board["ats"]]
             jobs = fn(board) if board["ats"] == "workday" else fn(board["token"])
-            result["companies"][e["id"]] = jobs
-            was = len(previous.get("companies", {}).get(e["id"], []))
+            was_jobs = previous.get("companies", {}).get(e["id"], [])
+            was = len(was_jobs)
             if was >= 10 and not jobs:
-                # Often a changed feed URL or a parser break rather than a real hiring stop: flag it for a look.
-                result.setdefault("warnings", []).append(f"{e['id']}: {was} jobs yesterday, 0 today")
-                print(f"WARNING {e['name']}: {was} jobs yesterday, 0 today; check the feed")
+                # Usually a feed outage (Workday maintenance emptied 12 boards on 21 Nov 2026), not a hiring stop.
+                # Keep the last good jobs for up to HOLD_DAYS days; if the board is still empty after that, believe it.
+                since = held_before.get(e["id"], today)
+                waited = (datetime.date.fromisoformat(today) - datetime.date.fromisoformat(since)).days
+                if waited < HOLD_DAYS:
+                    jobs = was_jobs
+                    result.setdefault("held", {})[e["id"]] = since
+                    note = f"{e['id']}: {was} jobs before, 0 today; kept previous jobs (held since {since})"
+                else:
+                    note = f"{e['id']}: still 0 jobs after {waited} days held; now showing 0"
+                result.setdefault("warnings", []).append(note)
+                print(f"WARNING {note}")
+            result["companies"][e["id"]] = jobs
             if board["ats"] == "workday":
                 result["partial"].append(e["id"])
             print(f"{e['name']:<24} {len(jobs):>4} Hyderabad jobs")

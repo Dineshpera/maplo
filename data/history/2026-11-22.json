@@ -344,6 +344,11 @@
 "jobs": 0,
 "name": "Colruyt IT Consultancy India Pvt. Ltd."
 },
+"commvault": {
+"buildings": [],
+"jobs": 0,
+"name": "Commvault"
+},
 "computer-sciences-corporation-india-pvt-ldt": {
 "buildings": [
 "w89898428"
@@ -712,6 +717,11 @@
 "jobs": 0,
 "name": "GreenStratos Consulting Private Ltd"
 },
+"gsk": {
+"buildings": [],
+"jobs": 0,
+"name": "GSK"
+},
 "gvr-infra-technologies": {
 "buildings": [
 "n6935384866"
@@ -739,6 +749,11 @@
 ],
 "jobs": 0,
 "name": "Hindhuja Global Solutions"
+},
+"hitachi": {
+"buildings": [],
+"jobs": 0,
+"name": "Hitachi"
 },
 "hsbc-group-service-centre": {
 "buildings": [
@@ -1035,6 +1050,11 @@
 ],
 "jobs": 0,
 "name": "MAQ Software"
+},
+"marvell": {
+"buildings": [],
+"jobs": 0,
+"name": "Marvell"
 },
 "mass-mutual-building": {
 "buildings": [

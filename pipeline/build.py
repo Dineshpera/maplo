@@ -330,9 +330,13 @@ def main():
                              "source": f"https://www.openstreetmap.org/{p.el['type']}/{p.el['id']}"})
 
     today = time.strftime("%Y-%m-%d")
+    # Snapshot every known company, not only the ones shown today. Otherwise a company with no pinned building
+    # drops out on a day its jobs read 0 and comes back the next day as "added to the map".
     snapshot = {c["id"]: {"name": c["name"], "buildings": sorted(o["building"] for o in c["offices"] if o["building"]),
-                          "jobs": len(c["jobs"])} for c in clist}
-    changes = diff_history(snapshot, today, used)
+                          "jobs": len(c["jobs"])} for c in companies.values()}
+    shown = {c["id"] for c in clist}
+    # Each change opens its company in the app, so list only companies the app can open.
+    changes = [ch for ch in diff_history(snapshot, today, used) if ch["company"] in shown]
 
     metro = metro_of(load(RAW / "metro.json", {"elements": []}))
     for b in used.values():
