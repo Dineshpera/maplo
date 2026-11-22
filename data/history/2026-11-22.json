@@ -115,6 +115,11 @@
 "jobs": 0,
 "name": "ams Semiconductors India Pvt. Ltd."
 },
+"analogdevices": {
+"buildings": [],
+"jobs": 1,
+"name": "Analog Devices"
+},
 "apex-covantage": {
 "buildings": [
 "w356020342"
@@ -665,9 +670,14 @@
 "jobs": 0,
 "name": "Gebbs Healthcare Solutions"
 },
+"gehc": {
+"buildings": [],
+"jobs": 3,
+"name": "GE HealthCare"
+},
 "genpact": {
 "buildings": [],
-"jobs": 19,
+"jobs": 20,
 "name": "Genpact"
 },
 "global-logic-technologies": {
@@ -742,7 +752,7 @@
 "buildings": [
 "w502048933"
 ],
-"jobs": 42,
+"jobs": 41,
 "name": "HighRadius"
 },
 "hindhuja-global-solutions": {
@@ -1017,7 +1027,7 @@
 "buildings": [
 "w1133460475"
 ],
-"jobs": 43,
+"jobs": 42,
 "name": "Lloyds Technology Centre"
 },
 "logic-planet-it-services-pvt-ltd": {
@@ -1485,7 +1495,7 @@
 "buildings": [
 "w413287761"
 ],
-"jobs": 0,
+"jobs": 6,
 "name": "S&P Global"
 },
 "saky-technologies-pvt-ltd": {
@@ -1780,7 +1790,7 @@
 "buildings": [
 "n6585739364"
 ],
-"jobs": 0,
+"jobs": 1,
 "name": "ThoughtWorks"
 },
 "tide": {
@@ -1809,6 +1819,11 @@
 ],
 "jobs": 0,
 "name": "Uber"
+},
+"uipath": {
+"buildings": [],
+"jobs": 2,
+"name": "UiPath"
 },
 "unify": {
 "buildings": [
@@ -1992,8 +2007,13 @@
 },
 "zenoti": {
 "buildings": [],
-"jobs": 34,
+"jobs": 32,
 "name": "Zenoti"
+},
+"zeta": {
+"buildings": [],
+"jobs": 9,
+"name": "Zeta"
 },
 "zf-india-itc-u2": {
 "buildings": [
@@ -2008,6 +2028,11 @@
 ],
 "jobs": 0,
 "name": "ZF Technology Centre"
+},
+"zoetis": {
+"buildings": [],
+"jobs": 12,
+"name": "Zoetis"
 },
 "zscaler": {
 "buildings": [

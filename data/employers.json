@@ -909,5 +909,86 @@
    "ats": "lever",
    "token": "egen"
   }
+ },
+ {
+  "id": "zoetis",
+  "name": "Zoetis",
+  "sector": "Animal health",
+  "website": "https://www.zoetis.com",
+  "board": {
+   "ats": "workday",
+   "host": "zoetis.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://zoetis.wd5.myworkdayjobs.com/zoetis/siteMap.xml",
+    "https://zoetis.wd5.myworkdayjobs.com/broadbean_external/siteMap.xml",
+    "https://zoetis.wd5.myworkdayjobs.com/zoetis_intl/siteMap.xml",
+    "https://zoetis.wd5.myworkdayjobs.com/zoetis_intern/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "s-p-global",
+  "name": "S&P Global",
+  "sector": "Financial data & ratings",
+  "website": "https://www.spglobal.com",
+  "board": {
+   "ats": "workday",
+   "host": "spgi.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/siteMap.xml",
+    "https://spgi.wd5.myworkdayjobs.com/OSTTRA_Careers/siteMap.xml",
+    "https://spgi.wd5.myworkdayjobs.com/aM_Careers/siteMap.xml",
+    "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "zeta",
+  "name": "Zeta",
+  "sector": "Banking technology",
+  "website": "https://www.zeta.tech",
+  "board": {
+   "ats": "lever",
+   "token": "zeta"
+  }
+ },
+ {
+  "id": "gehc",
+  "name": "GE HealthCare",
+  "sector": "Medical technology",
+  "website": "https://www.gehealthcare.com",
+  "aliases": [
+   "GE Healthcare"
+  ],
+  "board": {
+   "ats": "workday",
+   "host": "gehc.wd5.myworkdayjobs.com",
+   "sitemaps": [
+    "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/siteMap.xml"
+   ]
+  }
+ },
+ {
+  "id": "uipath",
+  "name": "UiPath",
+  "sector": "Automation software",
+  "website": "https://www.uipath.com",
+  "board": {
+   "ats": "ashby",
+   "token": "uipath"
+  }
+ },
+ {
+  "id": "analogdevices",
+  "name": "Analog Devices",
+  "sector": "Semiconductors",
+  "website": "https://www.analog.com",
+  "board": {
+   "ats": "workday",
+   "host": "analogdevices.wd1.myworkdayjobs.com",
+   "sitemaps": [
+    "https://analogdevices.wd1.myworkdayjobs.com/External/siteMap.xml"
+   ]
+  }
  }
 ]
