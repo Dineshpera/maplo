@@ -5,7 +5,7 @@
    - OpenFreeMap tiles: served from cache and refreshed, capped so the phone's storage isn't eaten.
    - Share pages (/b/<id>/, /c/<id>/) offline: sent to the app's own #b=<id> view.
    Bump VERSION when the list of app files changes; old caches are deleted on activate. */
-const VERSION = "maplo-v1";
+const VERSION = "maplo-v2";
 const SHELL = `${VERSION}-shell`, DATA = "maplo-data", LIBS = "maplo-libs-v1", TILES = "maplo-tiles-v1";
 const KEEP = [SHELL, DATA, LIBS, TILES];
 const TILE_CAP = 1500;

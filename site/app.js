@@ -18,7 +18,7 @@
       listHead: (j, h) => `${j} open jobs · ${h} employers`, listFiltered: n => `${n} companies match`,
       jobsWord: "jobs", jobs: (n, p) => `${n}${p ? "+" : ""} job${n === 1 && !p ? "" : "s"}`,
       noMatch: "Nothing matches these filters.", clear: "Clear filters",
-      officeNotPublished: "Hiring in Hyderabad · building not published", areaOnlyShort: "building not published",
+      officeNotPublished: "Hiring in Hyderabad · building not published", officeNotPublishedQuiet: "Hyderabad · building not published", areaOnlyShort: "building not published",
       conf: { verified: "Verified address", mapped: "On OpenStreetMap", area: "Area only, building not published" },
       checked: d => `checked ${d}`, source: "Source", back: "Back",
       directions: "Directions", save: "Save", saved: "Saved", share: "Share", website: "Website",
@@ -75,7 +75,7 @@
       listHead: (j, h) => `${j} ఖాళీలు · ${h} కంపెనీలు`, listFiltered: n => `${n} కంపెనీలు సరిపోయాయి`,
       jobsWord: "జాబ్స్", jobs: (n, p) => `${n}${p ? "+" : ""} ఉద్యోగాలు`,
       noMatch: "ఈ ఫిల్టర్లకు ఏమీ సరిపోలేదు.", clear: "ఫిల్టర్లు తీసేయి",
-      officeNotPublished: "హైదరాబాద్‌లో హైరింగ్ · బిల్డింగ్ ప్రకటించలేదు", areaOnlyShort: "బిల్డింగ్ ప్రకటించలేదు",
+      officeNotPublished: "హైదరాబాద్‌లో హైరింగ్ · బిల్డింగ్ ప్రకటించలేదు", officeNotPublishedQuiet: "హైదరాబాద్ · బిల్డింగ్ ప్రకటించలేదు", areaOnlyShort: "బిల్డింగ్ ప్రకటించలేదు",
       conf: { verified: "ధృవీకరించిన అడ్రస్", mapped: "OpenStreetMap‌లో ఉంది", area: "ఏరియా మాత్రమే, బిల్డింగ్ ప్రకటించలేదు" },
       checked: d => `${d}న చెక్ చేశాం`, source: "ఆధారం", back: "వెనక్కి",
       directions: "దారి", save: "సేవ్", saved: "సేవ్ అయింది", share: "షేర్", website: "వెబ్‌సైట్",
@@ -348,7 +348,7 @@
       const o = c.offices.find(x => x.building === b.id);
       where = `${o?.conf === "verified" ? icon("shield") : ""}<span>${esc(bName(b))} · ${esc(placeOf(b))}${bs.length > 1 ? ` · +${bs.length - 1}` : ""}</span>`;
     } else if (c.offices.length) where = `<span>${esc(c.offices[0].label)} · ${esc(t("areaOnlyShort"))}</span>`;
-    else where = `<span>${esc(t("officeNotPublished"))}</span>`;
+    else where = `<span>${esc(t(c.nj ? "officeNotPublished" : "officeNotPublishedQuiet"))}</span>`;
     if (c._d != null && S.sort === "near" && c._d < 1e9) where += `<span>· ${fmtDist(c._d)}</span>`;
     const nn = newCount("c", c.id);
     return `<button class="row" data-c="${esc(c.id)}">${monoEl(c.name)}<span class="rmain"><span class="rname">${esc(c.name)}</span><span class="rsub">${where}</span></span>
@@ -445,7 +445,7 @@
         <button class="btn ${isSaved ? "on" : ""}" data-save="c:${esc(c.id)}" aria-pressed="${isSaved}">${icon("bookmark")}${esc(t(isSaved ? "saved" : "save"))}</button>
         <button class="btn" data-share="c:${esc(c.id)}">${icon("share")}${esc(t("share"))}</button>
       </div>
-      ${c.offices.length ? `<div class="sec">${esc(t("offices"))}</div>${offices}` : `<p class="note">${esc(t("officeNotPublished"))}</p>`}
+      ${c.offices.length ? `<div class="sec">${esc(t("offices"))}</div>${offices}` : `<p class="note">${esc(t(c.nj ? "officeNotPublished" : "officeNotPublishedQuiet"))}</p>`}
       ${jobs}
       <div class="links">${suggestLink(c.name)}</div>`;
     setSelected(bs.map(b => b.id));

@@ -1,0 +1,22 @@
+name: Tests
+
+# Pipeline tests (standard library only, offline). The daily "Update data" run also runs them first.
+on:
+  push:
+    paths: ["pipeline/**", "tests/**", ".github/workflows/test.yml"]
+  pull_request:
+    paths: ["pipeline/**", "tests/**", ".github/workflows/test.yml"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: python -m unittest discover -s tests -v

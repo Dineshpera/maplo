@@ -51,8 +51,9 @@ data/employers.json (curated, a source link per office)                      ─
 | Step | File | What it does |
 |---|---|---|
 | Map data | `pipeline/fetch_osm.py` | Offices, named buildings, IT-park outlines, and Hyderabad Metro stations and track. It retries across three Overpass servers with back-off. |
-| Jobs | `pipeline/fetch_jobs.py` | Employers' own public job boards (Greenhouse, Lever, Ashby, Workable) and Workday career-site sitemaps. Keeps Hyderabad jobs only. Warns when an employer drops from 10 or more jobs to 0 overnight, which usually means a broken feed. |
+| Jobs | `pipeline/fetch_jobs.py` | Employers' own public job boards (Greenhouse, Lever, Ashby, Workable) and Workday career-site sitemaps. Keeps Hyderabad jobs only. A failed feed, or a Workday sitemap that isn't a real sitemap, keeps the last good jobs. When an employer drops from 10 or more jobs to 0, the previous jobs are kept for up to 2 days before 0 is believed (a Workday outage emptied 12 boards on 21 Nov 2026). |
 | Build | `pipeline/build.py` | Places offices in buildings and buildings in parks. Adds footprints, confidence labels, metro walk times and entry-level flags. Writes the data files, share pages and history snapshot. |
+| Check | `pipeline/check.py` | Compares the new build with the live one. Refuses to publish if open jobs fall below half, or companies or buildings below 80%. Lists failed and held feeds for a person to look at. |
 | Site | `site/` | Static files with no build step: `index.html`, `style.css`, `app.js`, `sw.js` (offline), plus `camera.js`, which loads only when the camera is opened. Uses MapLibre GL 4.7.1 and OpenFreeMap tiles. |
 | Icons | `tools/make_assets.sh` | Renders the app icons (512, 192, maskable, Apple 180, favicon) and the link-preview image from `tools/assets/*.html` with headless Chrome. Run it again after changing the logo. |
 
@@ -67,14 +68,21 @@ python3 pipeline/build.py
 python3 -m http.server 8793 --directory site   # or: node tools/serve.mjs 8793
 ```
 
+Tests (standard library only, offline):
+
+```bash
+python3 -m unittest discover -s tests
+```
+
 Open http://localhost:8793.
 
 The service worker serves app files from its cache first and refreshes them in the background, so after editing `app.js` or `style.css`, reload twice (or tick "Update on reload" under DevTools → Application → Service workers). If you add a new app file, add it to `SHELL_FILES` in `site/sw.js` and bump `VERSION`.
 
-## Current data (20 Nov 2026)
+## Current data (22 Nov 2026)
 
-- **293 companies in 233 buildings.** 24 parks are outlined. 6 metro stations are on Line 3.
-- **750 open Hyderabad jobs at 46 employers.** 20 of those employers (378 jobs) are pinned to a building. 8 jobs look entry-level by title.
+- **294 companies in 233 buildings.** 23 parks are outlined. 6 metro stations are on Line 3.
+- **732 open Hyderabad jobs at 42 employers.** 19 of those employers (375 jobs) are pinned to a building. 7 jobs look entry-level by title.
+- **Tracked companies with no openings stay listed** (for example GSK) and say "No openings found in our tracked sources".
   - "+" after a count means it comes from a Workday sitemap, which may list only part of a company's openings.
 - **Not used:** SmartRecruiters, because its robots.txt blocks everyone except LinkedIn.
 - **Offices without a pin:** some employers publish only an area, such as MSD "HITEC City". These show "building not published" rather than a guessed pin.
@@ -117,6 +125,9 @@ Add an entry to `data/employers.json`:
 Maplo runs on GitHub Pages at https://dineshpera.github.io/maplo/ (first deployed 20 Nov 2026).
 
 - `.github/workflows/update.yml` refreshes jobs daily at 06:00 IST and map data on Mondays, then commits `data/`, `site/data/` and the share pages. Run it by hand from the Actions tab when needed.
+  - It runs the tests first and the health check (`pipeline/check.py`) before committing. If the check blocks, nothing is committed and the site keeps the previous data. To publish anyway, run it by hand with **force** ticked.
+  - Anything worth a look (failed or held feeds, big drops, a failed run) goes into one open GitHub issue labelled `data-health`. Close it once handled; the next problem opens a new one.
+- `.github/workflows/test.yml` runs the tests on every push that changes `pipeline/` or `tests/`.
 - `.github/workflows/pages.yml` publishes `site/` after every push to `main` and after each successful data update.
 - `SITE_URL` in `pipeline/build.py` is the public address, so link previews get an absolute image URL. Change it if you move to your own domain.
 - Corrections: "Suggest a correction" links (list footer, and each building and company page) open the issue form in `.github/ISSUE_TEMPLATE/correction.yml`, with the title filled in. The address is `REPO_ISSUES` in `site/app.js`.

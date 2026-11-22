@@ -318,7 +318,9 @@ def main():
 
     used = {b["id"]: b for b in bmap.values() if b["companies"]}
     clist = sorted(companies.values(), key=lambda c: (-len(c["jobs"]), c["name"].lower()))
-    clist = [c for c in clist if c["offices"] or c["jobs"]]
+    # A company whose job board we track stays listed at 0 jobs ("No openings found in our tracked sources")
+    # instead of vanishing, even when its building is not published.
+    clist = [c for c in clist if c["offices"] or c["jobs"] or c["board"]]
 
     park_out = []
     for p in parks:
@@ -439,7 +441,9 @@ def share_pages(buildings, clist):
         n += 1
     for c in clist:
         bs = [buildings[o["building"]]["name"] for o in c["offices"] if o["building"] in buildings]
-        title = f"{c['name']} in Hyderabad: " + (f"{len(c['jobs'])} open job{'s' if len(c['jobs']) != 1 else ''}" if c["jobs"] else "office") + f" | {BRAND}"
+        status = (f"{len(c['jobs'])} open job{'s' if len(c['jobs']) != 1 else ''}" if c["jobs"]
+                  else "office" if bs else "no openings found right now")
+        title = f"{c['name']} in Hyderabad: {status} | {BRAND}"
         desc = ("Office: " + "; ".join(bs[:3]) + ". " if bs else "") + "Every job links to the employer's own posting."
         d = SITE / "c" / c["id"]
         d.mkdir(parents=True, exist_ok=True)

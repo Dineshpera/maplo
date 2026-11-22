@@ -155,6 +155,7 @@ def main():
             print(f"{e['name']:<24} {len(jobs):>4} Hyderabad jobs")
         except Exception as ex:
             # A busy or timed-out board should not wipe a company's jobs: keep the last good fetch.
+            result.setdefault("failed", {})[e["id"]] = str(ex)[:120]  # read by pipeline/check.py
             if e["id"] in previous.get("companies", {}):
                 result["companies"][e["id"]] = previous["companies"][e["id"]]
                 if e["id"] in previous.get("partial", []):
