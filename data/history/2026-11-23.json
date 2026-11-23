@@ -1,0 +1,2044 @@
+{
+"37-media": {
+"buildings": [
+"n7021303620"
+],
+"jobs": 0,
+"name": "37 Media"
+},
+"91springboard": {
+"buildings": [
+"w356193059"
+],
+"jobs": 0,
+"name": "91Springboard"
+},
+"aadithya-it-service": {
+"buildings": [
+"w356020342"
+],
+"jobs": 0,
+"name": "Aadithya IT Service"
+},
+"abridge-sol": {
+"buildings": [
+"n7021303632"
+],
+"jobs": 0,
+"name": "Abridge Sol"
+},
+"accenture": {
+"buildings": [
+"n12848301524",
+"n7199695312",
+"w1222714454",
+"w386897463"
+],
+"jobs": 1,
+"name": "Accenture"
+},
+"adp": {
+"buildings": [
+"w1212211122"
+],
+"jobs": 0,
+"name": "ADP"
+},
+"agiliq-info-solutions-india-private-ltd": {
+"buildings": [
+"n7021303665"
+],
+"jobs": 0,
+"name": "Agiliq Info Solutions India Private Ltd"
+},
+"airtel": {
+"buildings": [
+"w413287762"
+],
+"jobs": 0,
+"name": "airtel"
+},
+"allen-career-institute-manikonda-residential-campus": {
+"buildings": [
+"w1341465971"
+],
+"jobs": 0,
+"name": "ALLEN Career Institute - Manikonda Residential Campus"
+},
+"amazon": {
+"buildings": [
+"n11099906805",
+"w68907576"
+],
+"jobs": 0,
+"name": "Amazon"
+},
+"amazon-developement-center": {
+"buildings": [
+"w859668203"
+],
+"jobs": 0,
+"name": "Amazon Developement center"
+},
+"amazon-development-center": {
+"buildings": [
+"w502048933"
+],
+"jobs": 0,
+"name": "Amazon Development Center"
+},
+"amazon-development-centre-india-pvt-ltd-hyd20": {
+"buildings": [
+"w689203494"
+],
+"jobs": 0,
+"name": "Amazon Development Centre India Pvt. Ltd. (HYD20)"
+},
+"amazon-hyderabad-campus": {
+"buildings": [
+"w859668203"
+],
+"jobs": 0,
+"name": "Amazon Hyderabad Campus"
+},
+"amgen": {
+"buildings": [
+"w122796944"
+],
+"jobs": 24,
+"name": "Amgen"
+},
+"ams-semiconductors-india-pvt-ltd": {
+"buildings": [
+"w89914725"
+],
+"jobs": 0,
+"name": "ams Semiconductors India Pvt. Ltd."
+},
+"analogdevices": {
+"buildings": [],
+"jobs": 1,
+"name": "Analog Devices"
+},
+"apex-covantage": {
+"buildings": [
+"w356020342"
+],
+"jobs": 0,
+"name": "Apex Covantage"
+},
+"arbiva-technologies-pvt-ltd": {
+"buildings": [
+"n7025820868"
+],
+"jobs": 0,
+"name": "Arbiva Technologies Pvt Ltd"
+},
+"arcesium-india-pvt-ltd": {
+"buildings": [
+"w502048933"
+],
+"jobs": 0,
+"name": "Arcesium India Pvt Ltd"
+},
+"ashwaadha": {
+"buildings": [
+"n6191414048"
+],
+"jobs": 0,
+"name": "Ashwaadha"
+},
+"athena-technology-solution": {
+"buildings": [
+"n7025820841"
+],
+"jobs": 0,
+"name": "Athena Technology Solution"
+},
+"auto-rox": {
+"buildings": [
+"w558979475"
+],
+"jobs": 0,
+"name": "Auto Rox"
+},
+"ayyanna-infra-corporate-office": {
+"buildings": [
+"n7025820772"
+],
+"jobs": 0,
+"name": "Ayyanna Infra corporate Office"
+},
+"ba-continuum-india-pvt-ltd": {
+"buildings": [
+"w116078985"
+],
+"jobs": 0,
+"name": "BA Continuum India Pvt Ltd"
+},
+"bajaj-housing-finance-ltd": {
+"buildings": [
+"n5957505785"
+],
+"jobs": 0,
+"name": "Bajaj Housing Finance Ltd"
+},
+"beetlerim-technologies-private-limited": {
+"buildings": [
+"n7021303700"
+],
+"jobs": 0,
+"name": "BeetleRim Technologies Private Limited"
+},
+"big-c-corporate-office": {
+"buildings": [
+"n7021303643"
+],
+"jobs": 0,
+"name": "Big C corporate Office"
+},
+"bijib-soft-pvt": {
+"buildings": [
+"n7025820849"
+],
+"jobs": 0,
+"name": "Bijib Soft Pvt"
+},
+"bizviz-technologies": {
+"buildings": [
+"w356253038"
+],
+"jobs": 0,
+"name": "Bizviz Technologies"
+},
+"blackgrand-stone-india-private-limited": {
+"buildings": [
+"n7021303704"
+],
+"jobs": 0,
+"name": "BlackGrand Stone India Private Limited"
+},
+"bofa": {
+"buildings": [
+"w89898294"
+],
+"jobs": 18,
+"name": "Bank of America"
+},
+"bosch-limited": {
+"buildings": [
+"n10279728138"
+],
+"jobs": 0,
+"name": "Bosch Limited"
+},
+"bricks-meadows-apart": {
+"buildings": [
+"n7021303642"
+],
+"jobs": 0,
+"name": "Bricks Meadows Apart"
+},
+"broadcom": {
+"buildings": [
+"w68907576"
+],
+"jobs": 5,
+"name": "Broadcom"
+},
+"broadridge": {
+"buildings": [
+"w846889810"
+],
+"jobs": 6,
+"name": "Broadridge"
+},
+"c-tel-infosystems": {
+"buildings": [
+"w632251671"
+],
+"jobs": 0,
+"name": "C-Tel Infosystems"
+},
+"cadence": {
+"buildings": [],
+"jobs": 4,
+"name": "Cadence"
+},
+"cadvision-engineers-pvt-ltd": {
+"buildings": [
+"n7021303668"
+],
+"jobs": 0,
+"name": "CADVision Engineers Pvt Ltd"
+},
+"capgemini": {
+"buildings": [
+"n6427367866"
+],
+"jobs": 0,
+"name": "Capgemini"
+},
+"carrier": {
+"buildings": [
+"w502048933"
+],
+"jobs": 5,
+"name": "Carrier"
+},
+"celebrity-prime-developers": {
+"buildings": [
+"n5405045516"
+],
+"jobs": 0,
+"name": "Celebrity prime developers"
+},
+"center-for-organization-developement": {
+"buildings": [
+"n7025820907"
+],
+"jobs": 0,
+"name": "Center for Organization Developement"
+},
+"chekhra-business-solutions-private-limited": {
+"buildings": [
+"n7021303705"
+],
+"jobs": 0,
+"name": "Chekhra Business Solutions Private Limited"
+},
+"choral-technologies": {
+"buildings": [
+"n7025820867"
+],
+"jobs": 0,
+"name": "Choral Technologies"
+},
+"clowork": {
+"buildings": [
+"n5915115202"
+],
+"jobs": 0,
+"name": "CLOwork"
+},
+"clr-facility-services-pvt-ltd": {
+"buildings": [
+"n8478835514"
+],
+"jobs": 0,
+"name": "CLR Facility Services Pvt Ltd"
+},
+"cognitivebotics": {
+"buildings": [
+"n14369902379"
+],
+"jobs": 0,
+"name": "CognitiveBotics"
+},
+"cognizant": {
+"buildings": [
+"w413274269"
+],
+"jobs": 0,
+"name": "Cognizant"
+},
+"colruyt-it-consultancy-india-pvt-ltd": {
+"buildings": [
+"w297108912"
+],
+"jobs": 0,
+"name": "Colruyt IT Consultancy India Pvt. Ltd."
+},
+"commvault": {
+"buildings": [
+"w570972113"
+],
+"jobs": 0,
+"name": "Commvault"
+},
+"computer-sciences-corporation-india-pvt-ldt": {
+"buildings": [
+"w89898428"
+],
+"jobs": 0,
+"name": "Computer Sciences Corporation India Pvt.Ldt"
+},
+"concentrix": {
+"buildings": [
+"n7244256675"
+],
+"jobs": 0,
+"name": "concentrix"
+},
+"convergys": {
+"buildings": [
+"n2963667812"
+],
+"jobs": 0,
+"name": "Convergys"
+},
+"coupa": {
+"buildings": [
+"w551147907"
+],
+"jobs": 1,
+"name": "Coupa"
+},
+"cred": {
+"buildings": [],
+"jobs": 2,
+"name": "CRED"
+},
+"ctrls-host": {
+"buildings": [
+"n7021303709"
+],
+"jobs": 0,
+"name": "Ctrls Host"
+},
+"cyient": {
+"buildings": [
+"w68907571"
+],
+"jobs": 0,
+"name": "Cyient"
+},
+"cyient-ltd": {
+"buildings": [
+"w356200229"
+],
+"jobs": 0,
+"name": "Cyient Ltd"
+},
+"cyient-technologies-pvt-ltd": {
+"buildings": [
+"n7244175920"
+],
+"jobs": 0,
+"name": "Cyient Technologies pvt ltd"
+},
+"dadasaheb-phalke-school-of-film-studios": {
+"buildings": [
+"n5405036289"
+],
+"jobs": 0,
+"name": "Dadasaheb phalke school of film studios"
+},
+"deliveroo": {
+"buildings": [
+"w1409480797"
+],
+"jobs": 6,
+"name": "Deliveroo"
+},
+"deloitte": {
+"buildings": [
+"w89918043",
+"w89918045"
+],
+"jobs": 0,
+"name": "Deloitte"
+},
+"delta-technologies-management-pvt-ltd": {
+"buildings": [
+"n6633198227"
+],
+"jobs": 0,
+"name": "Delta Technologies & Management Pvt Ltd"
+},
+"directorate-of-distance-education-dde": {
+"buildings": [
+"n10965310003"
+],
+"jobs": 0,
+"name": "Directorate of Distance Education (DDE)"
+},
+"divis-labratories": {
+"buildings": [
+"w558285168"
+],
+"jobs": 0,
+"name": "Divis Labratories"
+},
+"divyasree-omega": {
+"buildings": [
+"w342064508"
+],
+"jobs": 0,
+"name": "Divyasree Omega"
+},
+"dlf-park": {
+"buildings": [
+"w413274269"
+],
+"jobs": 0,
+"name": "DLF park"
+},
+"dot-labs-web-solutions-pvt-ltd": {
+"buildings": [
+"w356252775"
+],
+"jobs": 0,
+"name": "Dot Labs Web Solutions Pvt Ltd"
+},
+"drogo-drones": {
+"buildings": [
+"n13637905412"
+],
+"jobs": 0,
+"name": "Drogo Drones"
+},
+"druva": {
+"buildings": [],
+"jobs": 1,
+"name": "Druva"
+},
+"dts-services": {
+"buildings": [
+"n7021303677"
+],
+"jobs": 0,
+"name": "Dts Services"
+},
+"dymes-engineers-pvt-ltd": {
+"buildings": [
+"n5405059614"
+],
+"jobs": 0,
+"name": "Dymes engineers pvt ltd"
+},
+"e-seva": {
+"buildings": [
+"n7113766585"
+],
+"jobs": 0,
+"name": "E Seva"
+},
+"egen": {
+"buildings": [],
+"jobs": 4,
+"name": "Egen"
+},
+"ekincare-aayuv-technologies-pvt-ltd": {
+"buildings": [
+"n7021303689"
+],
+"jobs": 0,
+"name": "Ekincare (Aayuv Technologies Pvt Ltd)"
+},
+"elearn-web-designing-course-with-placement-hyderabad": {
+"buildings": [
+"n7021303616"
+],
+"jobs": 0,
+"name": "Elearn Web Designing Course With Placement Hyderabad"
+},
+"elevance": {
+"buildings": [
+"w1152313427"
+],
+"jobs": 1,
+"name": "Elevance Health (Carelon)"
+},
+"enh-isecure-pvt-ltd": {
+"buildings": [
+"n7025820777"
+],
+"jobs": 0,
+"name": "ENH iSecure Pvt Ltd"
+},
+"epiq-systems": {
+"buildings": [
+"w1133394530"
+],
+"jobs": 0,
+"name": "EPIQ Systems"
+},
+"equiphunt": {
+"buildings": [
+"n5795182353"
+],
+"jobs": 0,
+"name": "Equiphunt"
+},
+"euclid-innovations": {
+"buildings": [
+"n11266266642",
+"w574673961"
+],
+"jobs": 0,
+"name": "Euclid Innovations"
+},
+"evergent": {
+"buildings": [
+"w1133394530"
+],
+"jobs": 0,
+"name": "Evergent"
+},
+"evernorth": {
+"buildings": [],
+"jobs": 8,
+"name": "Evernorth (Cigna)"
+},
+"facebook-india": {
+"buildings": [
+"n12896161101"
+],
+"jobs": 0,
+"name": "Facebook India"
+},
+"factset": {
+"buildings": [],
+"jobs": 23,
+"name": "FactSet"
+},
+"fanista-advisors": {
+"buildings": [
+"n7025820873"
+],
+"jobs": 0,
+"name": "Fanista Advisors"
+},
+"fedele-info-solutions-india-pvt-ltd": {
+"buildings": [
+"n7021303674"
+],
+"jobs": 0,
+"name": "Fedele Info solutions India pvt ltd"
+},
+"fedex-acc-hyderabad": {
+"buildings": [
+"w1235249271"
+],
+"jobs": 0,
+"name": "Fedex ACC Hyderabad"
+},
+"finbot-pvt-ltd": {
+"buildings": [
+"n5835835110"
+],
+"jobs": 0,
+"name": "Finbot Pvt Ltd"
+},
+"finexcore-india-private-limited": {
+"buildings": [
+"n7021303681"
+],
+"jobs": 0,
+"name": "Finexcore India Private Limited"
+},
+"first-source": {
+"buildings": [
+"w1235251873"
+],
+"jobs": 0,
+"name": "First Source"
+},
+"fleetronix-systems": {
+"buildings": [
+"n9274990414"
+],
+"jobs": 0,
+"name": "Fleetronix Systems"
+},
+"friendknows-technologies-pvt-ltd": {
+"buildings": [
+"n7021303636"
+],
+"jobs": 0,
+"name": "Friendknows Technologies Pvt Ltd"
+},
+"gainsight": {
+"buildings": [
+"w1120726023"
+],
+"jobs": 4,
+"name": "Gainsight"
+},
+"gar-infobahn-inspired-by-laxmi": {
+"buildings": [
+"w689203494"
+],
+"jobs": 0,
+"name": "GAR Infobahn - Inspired by Laxmi"
+},
+"gebbs-healthcare-solutions": {
+"buildings": [
+"n10279728139"
+],
+"jobs": 0,
+"name": "Gebbs Healthcare Solutions"
+},
+"gehc": {
+"buildings": [],
+"jobs": 3,
+"name": "GE HealthCare"
+},
+"genpact": {
+"buildings": [],
+"jobs": 23,
+"name": "Genpact"
+},
+"global-logic-technologies": {
+"buildings": [
+"n7021303624"
+],
+"jobs": 0,
+"name": "Global Logic Technologies"
+},
+"globallogic": {
+"buildings": [
+"w413274269"
+],
+"jobs": 0,
+"name": "GlobalLogic"
+},
+"golden-sun-technology-pvt-ltd": {
+"buildings": [
+"n7021303670"
+],
+"jobs": 0,
+"name": "Golden Sun Technology Pvt Ltd"
+},
+"google": {
+"buildings": [
+"w342064508"
+],
+"jobs": 0,
+"name": "Google"
+},
+"google-office": {
+"buildings": [
+"w1247721916"
+],
+"jobs": 0,
+"name": "google office"
+},
+"gowra-fountainhead": {
+"buildings": [
+"n13702819101"
+],
+"jobs": 0,
+"name": "Gowra Fountainhead"
+},
+"greenstratos-consulting-private-ltd": {
+"buildings": [
+"n7025820837"
+],
+"jobs": 0,
+"name": "GreenStratos Consulting Private Ltd"
+},
+"gsk": {
+"buildings": [],
+"jobs": 0,
+"name": "GSK"
+},
+"gvr-infra-technologies": {
+"buildings": [
+"n6935384866"
+],
+"jobs": 0,
+"name": "Gvr infra technologies"
+},
+"hcl-technologies": {
+"buildings": [
+"n11099903505"
+],
+"jobs": 0,
+"name": "HCL Technologies"
+},
+"highradius": {
+"buildings": [
+"w502048933"
+],
+"jobs": 41,
+"name": "HighRadius"
+},
+"hindhuja-global-solutions": {
+"buildings": [
+"w413274269"
+],
+"jobs": 0,
+"name": "Hindhuja Global Solutions"
+},
+"hitachi": {
+"buildings": [],
+"jobs": 0,
+"name": "Hitachi"
+},
+"hsbc-group-service-centre": {
+"buildings": [
+"w68907576"
+],
+"jobs": 0,
+"name": "HSBC Group Service Centre"
+},
+"hulk-logic": {
+"buildings": [
+"n7021303680"
+],
+"jobs": 0,
+"name": "Hulk Logic"
+},
+"ics-tech-service-pvt-ltd": {
+"buildings": [
+"n7021303615"
+],
+"jobs": 0,
+"name": "ICS Tech Service Pvt Ltd"
+},
+"ilabs-building": {
+"buildings": [
+"w51327327"
+],
+"jobs": 0,
+"name": "Ilabs Building"
+},
+"infinus-capital-management-pvt-ltd": {
+"buildings": [
+"n7021303691"
+],
+"jobs": 0,
+"name": "Infinus Capital Management Pvt Ltd"
+},
+"inforaise-technologies-pvt-ltd": {
+"buildings": [
+"n7025820781"
+],
+"jobs": 0,
+"name": "Inforaise Technologies Pvt Ltd"
+},
+"infrability-it-solutions": {
+"buildings": [
+"n11101235047"
+],
+"jobs": 0,
+"name": "Infrability IT Solutions"
+},
+"ingresos-technologies": {
+"buildings": [
+"n7025820898"
+],
+"jobs": 0,
+"name": "Ingresos Technologies"
+},
+"integen-it-services-pvt-ltd": {
+"buildings": [
+"n7021303650"
+],
+"jobs": 0,
+"name": "InteGen IT Services Pvt. Ltd."
+},
+"intelligent-transpotation-system-planners-engineers": {
+"buildings": [
+"n11422576652"
+],
+"jobs": 0,
+"name": "Intelligent Transpotation System Planners & Engineers"
+},
+"internet-marketing-services-in-hyderabad-book-a-service": {
+"buildings": [
+"w89914725"
+],
+"jobs": 0,
+"name": "Internet Marketing Services in Hyderabad | Book a service"
+},
+"inventbird-pvt-ltd": {
+"buildings": [
+"n5778805029"
+],
+"jobs": 0,
+"name": "InventBird Pvt Ltd"
+},
+"invesco": {
+"buildings": [],
+"jobs": 50,
+"name": "Invesco"
+},
+"isb-admission-office": {
+"buildings": [
+"w1349496537"
+],
+"jobs": 0,
+"name": "ISB Admission Office"
+},
+"itech-manage": {
+"buildings": [
+"n5405054114"
+],
+"jobs": 0,
+"name": "iTech Manage"
+},
+"izetta-it-solutions": {
+"buildings": [
+"n7025820834"
+],
+"jobs": 0,
+"name": "Izetta IT Solutions"
+},
+"jaini-pvt-ltd": {
+"buildings": [
+"w413287762"
+],
+"jobs": 0,
+"name": "Jaini pvt ltd."
+},
+"jnibf": {
+"buildings": [
+"n5405054242"
+],
+"jobs": 0,
+"name": "JNIBF"
+},
+"jnj": {
+"buildings": [],
+"jobs": 14,
+"name": "Johnson & Johnson"
+},
+"joveo": {
+"buildings": [
+"n7097203033"
+],
+"jobs": 0,
+"name": "Joveo"
+},
+"jp-morgan": {
+"buildings": [
+"n7244256677"
+],
+"jobs": 0,
+"name": "JP Morgan"
+},
+"jrd-interiors-india-private-limited": {
+"buildings": [
+"n6501447999"
+],
+"jobs": 0,
+"name": "JRD Interiors India Private Limited"
+},
+"jvp": {
+"buildings": [
+"w68883439"
+],
+"jobs": 0,
+"name": "JVP"
+},
+"kapston": {
+"buildings": [
+"n6935208973"
+],
+"jobs": 0,
+"name": "Kapston"
+},
+"karvy": {
+"buildings": [
+"n6935240991",
+"n7248877417"
+],
+"jobs": 0,
+"name": "Karvy"
+},
+"kclink-technologies-pvt-ltd": {
+"buildings": [
+"n7025820820"
+],
+"jobs": 0,
+"name": "Kclink Technologies Pvt.Ltd"
+},
+"klr-vertex": {
+"buildings": [
+"n7849753327"
+],
+"jobs": 0,
+"name": "KLR Vertex"
+},
+"kmc": {
+"buildings": [
+"n5795180952"
+],
+"jobs": 0,
+"name": "KMC"
+},
+"krishnallogic-technologies": {
+"buildings": [
+"w413274269"
+],
+"jobs": 0,
+"name": "krishnalLogic Technologies"
+},
+"kumon-maths-and-english": {
+"buildings": [
+"n5405055353"
+],
+"jobs": 0,
+"name": "Kumon Maths and English"
+},
+"la-mclean-india-pvt-ltd": {
+"buildings": [
+"w356020342"
+],
+"jobs": 0,
+"name": "La McLean India Pvt. Ltd."
+},
+"lab-of-spatial-informatics-lsi": {
+"buildings": [
+"w1578309122"
+],
+"jobs": 0,
+"name": "Lab of Spatial Informatics (LSI)"
+},
+"lamtuf-plastics-limited": {
+"buildings": [
+"n7021303706"
+],
+"jobs": 0,
+"name": "Lamtuf Plastics Limited"
+},
+"legato": {
+"buildings": [
+"w689203494"
+],
+"jobs": 0,
+"name": "Legato"
+},
+"legato-health": {
+"buildings": [
+"w689203497"
+],
+"jobs": 0,
+"name": "Legato Health"
+},
+"lic-housing-finance-office": {
+"buildings": [
+"w356020342"
+],
+"jobs": 0,
+"name": "LIC Housing Finance Office"
+},
+"linkfields-innovations-private-limited": {
+"buildings": [
+"n10849248414"
+],
+"jobs": 0,
+"name": "Linkfields Innovations Private Limited"
+},
+"lloyds": {
+"buildings": [
+"w1133460475"
+],
+"jobs": 40,
+"name": "Lloyds Technology Centre"
+},
+"logic-planet-it-services-pvt-ltd": {
+"buildings": [
+"n7021303690"
+],
+"jobs": 0,
+"name": "Logic Planet IT Services Pvt Ltd"
+},
+"lseg": {
+"buildings": [],
+"jobs": 1,
+"name": "LSEG"
+},
+"mantravy-online-services": {
+"buildings": [
+"n8354338133"
+],
+"jobs": 0,
+"name": "Mantravy Online Services"
+},
+"mantri-cosmos": {
+"buildings": [
+"w342033187"
+],
+"jobs": 0,
+"name": "Mantri Cosmos"
+},
+"maq-software": {
+"buildings": [
+"w782300587"
+],
+"jobs": 0,
+"name": "MAQ Software"
+},
+"marvell": {
+"buildings": [],
+"jobs": 0,
+"name": "Marvell"
+},
+"mass-mutual-building": {
+"buildings": [
+"w1235251873"
+],
+"jobs": 0,
+"name": "Mass Mutual Building"
+},
+"maulana-azaad-urdu-university": {
+"buildings": [
+"w116238674"
+],
+"jobs": 0,
+"name": "Maulana Azaad Urdu University"
+},
+"maventus-software-technologies-private-ltd": {
+"buildings": [
+"n7021303667"
+],
+"jobs": 0,
+"name": "Maventus Software Technologies Private. Ltd."
+},
+"mediamint": {
+"buildings": [
+"n3492610699"
+],
+"jobs": 0,
+"name": "MediaMint"
+},
+"medintu-health-solutions-pvt-ltd": {
+"buildings": [
+"n7025820831"
+],
+"jobs": 0,
+"name": "Medintu Health Solutions Pvt. Ltd."
+},
+"medisis-info": {
+"buildings": [
+"n7021303703"
+],
+"jobs": 0,
+"name": "Medisis info"
+},
+"medtronic": {
+"buildings": [
+"w1235251873"
+],
+"jobs": 1,
+"name": "Medtronic"
+},
+"meesho": {
+"buildings": [],
+"jobs": 1,
+"name": "Meesho"
+},
+"meta": {
+"buildings": [
+"w292755261"
+],
+"jobs": 0,
+"name": "Meta"
+},
+"microchip-hyderabad": {
+"buildings": [
+"w1133389547"
+],
+"jobs": 0,
+"name": "Microchip Hyderabad"
+},
+"micron": {
+"buildings": [
+"w793742592"
+],
+"jobs": 195,
+"name": "Micron Technology"
+},
+"microsoft": {
+"buildings": [
+"w1235249271"
+],
+"jobs": 0,
+"name": "Microsoft"
+},
+"microsoft-building-1": {
+"buildings": [
+"w543748700"
+],
+"jobs": 0,
+"name": "Microsoft Building 1"
+},
+"microsoft-building-2": {
+"buildings": [
+"w543748701"
+],
+"jobs": 0,
+"name": "Microsoft Building 2"
+},
+"microsoft-building-3": {
+"buildings": [
+"w543748702"
+],
+"jobs": 0,
+"name": "Microsoft Building 3"
+},
+"motorola": {
+"buildings": [
+"w89914117"
+],
+"jobs": 0,
+"name": "Motorola"
+},
+"mphasis-ltd": {
+"buildings": [
+"w502048933"
+],
+"jobs": 0,
+"name": "Mphasis Ltd"
+},
+"msd": {
+"buildings": [],
+"jobs": 33,
+"name": "MSD"
+},
+"muthoot-finance": {
+"buildings": [
+"n5942783246"
+],
+"jobs": 0,
+"name": "Muthoot Finance"
+},
+"natfm": {
+"buildings": [
+"n5405056140"
+],
+"jobs": 0,
+"name": "NATFM"
+},
+"navbharath-gas-company-pvt-ltd": {
+"buildings": [
+"n7021303695"
+],
+"jobs": 0,
+"name": "NavBharath Gas Company Pvt Ltd"
+},
+"ncentric-technologies-india-pvt-ltd": {
+"buildings": [
+"w356182749"
+],
+"jobs": 0,
+"name": "NCentric Technologies India pvt ltd"
+},
+"ncr-corporation-india-pvt-ltd": {
+"buildings": [
+"w502048933"
+],
+"jobs": 0,
+"name": "NCR Corporation India Pvt Ltd"
+},
+"ness-technologies": {
+"buildings": [
+"w116078983"
+],
+"jobs": 0,
+"name": "Ness Technologies"
+},
+"newrelic": {
+"buildings": [
+"w68907576"
+],
+"jobs": 2,
+"name": "New Relic"
+},
+"nexiilabs": {
+"buildings": [
+"w116079893"
+],
+"jobs": 0,
+"name": "Nexiilabs"
+},
+"nextbillion-ai": {
+"buildings": [
+"n8129902419"
+],
+"jobs": 0,
+"name": "NextBillion.ai"
+},
+"nimbu-tech-systems": {
+"buildings": [
+"n7025820807"
+],
+"jobs": 0,
+"name": "Nimbu Tech Systems"
+},
+"nordic-semiconductor-asa": {
+"buildings": [
+"n9913283290"
+],
+"jobs": 0,
+"name": "Nordic Semiconductor ASA"
+},
+"notion": {
+"buildings": [],
+"jobs": 2,
+"name": "Notion"
+},
+"novartis": {
+"buildings": [
+"w292769248",
+"w558351785"
+],
+"jobs": 6,
+"name": "Novartis"
+},
+"nucleus": {
+"buildings": [
+"n7027716890"
+],
+"jobs": 0,
+"name": "Nucleus"
+},
+"omega-it-professionals-pvt-ltd": {
+"buildings": [
+"n7025820765"
+],
+"jobs": 0,
+"name": "Omega IT Professionals Pvt Ltd"
+},
+"oneplus": {
+"buildings": [
+"w1133394530"
+],
+"jobs": 0,
+"name": "OnePlus"
+},
+"onexsoftech-private-limited": {
+"buildings": [
+"n7021303710"
+],
+"jobs": 0,
+"name": "OnexSoftech Private limited"
+},
+"opentext": {
+"buildings": [
+"w292750667"
+],
+"jobs": 0,
+"name": "OpenText"
+},
+"option-matrix-infotech-private-limited": {
+"buildings": [
+"w339702143"
+],
+"jobs": 0,
+"name": "Option Matrix Infotech Private Limited."
+},
+"oracle-campus-phase-1": {
+"buildings": [
+"w90465066"
+],
+"jobs": 0,
+"name": "Oracle Campus Phase 1"
+},
+"oracle-campus-phase-2": {
+"buildings": [
+"w90465078"
+],
+"jobs": 0,
+"name": "Oracle Campus Phase 2"
+},
+"oracle-campus-phase-3": {
+"buildings": [
+"w110018692"
+],
+"jobs": 0,
+"name": "Oracle Campus Phase 3"
+},
+"paltech": {
+"buildings": [
+"n13078068652"
+],
+"jobs": 0,
+"name": "Paltech"
+},
+"perceptive-analytics-pvt-ltd": {
+"buildings": [
+"n5392757277"
+],
+"jobs": 0,
+"name": "Perceptive Analytics Pvt. Ltd."
+},
+"pg": {
+"buildings": [],
+"jobs": 1,
+"name": "Procter & Gamble"
+},
+"phoneix-aquilla": {
+"buildings": [
+"n11298665769"
+],
+"jobs": 0,
+"name": "Phoneix Aquilla"
+},
+"photon-technologies": {
+"buildings": [
+"n7021303678"
+],
+"jobs": 0,
+"name": "Photon Technologies"
+},
+"playmotion": {
+"buildings": [
+"n7021303701"
+],
+"jobs": 0,
+"name": "PlayMotion"
+},
+"praneeth-hp-gas-agency": {
+"buildings": [
+"n7027716899"
+],
+"jobs": 0,
+"name": "Praneeth HP Gas Agency"
+},
+"precog": {
+"buildings": [
+"w1578309122"
+],
+"jobs": 0,
+"name": "Precog"
+},
+"prime-software-solutions-pvt-ltd": {
+"buildings": [
+"w356020342"
+],
+"jobs": 0,
+"name": "Prime Software Solutions Pvt Ltd"
+},
+"primera-medical-technologies-corporate-office": {
+"buildings": [
+"n13614017002"
+],
+"jobs": 0,
+"name": "PrimEra Medical Technologies ( Corporate Office )"
+},
+"prog9-softtech-private-ltd": {
+"buildings": [
+"w356020342"
+],
+"jobs": 0,
+"name": "Prog9 Softtech Private Ltd"
+},
+"proventures-education-and-consulting-services": {
+"buildings": [
+"n7140598803"
+],
+"jobs": 0,
+"name": "Proventures Education and Consulting Services"
+},
+"purva-summit": {
+"buildings": [
+"n6868808571"
+],
+"jobs": 0,
+"name": "Purva Summit"
+},
+"pwc": {
+"buildings": [],
+"jobs": 30,
+"name": "PwC"
+},
+"rapido-technologies": {
+"buildings": [
+"n7025820763"
+],
+"jobs": 0,
+"name": "Rapido Technologies"
+},
+"ray-business-technologies-pvt-ltd": {
+"buildings": [
+"n7025820748"
+],
+"jobs": 0,
+"name": "Ray Business Technologies Pvt Ltd."
+},
+"rcv-towers": {
+"buildings": [
+"n6633206571"
+],
+"jobs": 0,
+"name": "RCV Towers"
+},
+"realpage": {
+"buildings": [
+"w292755261"
+],
+"jobs": 0,
+"name": "Realpage"
+},
+"rmsi": {
+"buildings": [
+"w68875336"
+],
+"jobs": 0,
+"name": "RMSI"
+},
+"roche": {
+"buildings": [],
+"jobs": 48,
+"name": "Roche"
+},
+"rr-technologies": {
+"buildings": [
+"n7025820905"
+],
+"jobs": 0,
+"name": "RR Technologies"
+},
+"rtx": {
+"buildings": [
+"w116098923"
+],
+"jobs": 6,
+"name": "RTX"
+},
+"s-p-global": {
+"buildings": [
+"w413287761"
+],
+"jobs": 6,
+"name": "S&P Global"
+},
+"saky-technologies-pvt-ltd": {
+"buildings": [
+"n7025820775"
+],
+"jobs": 0,
+"name": "Saky Technologies Pvt Ltd"
+},
+"salapuria-sattva-knowledge-city": {
+"buildings": [
+"w558276571"
+],
+"jobs": 0,
+"name": "Salapuria Sattva Knowledge City"
+},
+"salesforce": {
+"buildings": [
+"w297099095"
+],
+"jobs": 3,
+"name": "Salesforce"
+},
+"sanofi": {
+"buildings": [],
+"jobs": 6,
+"name": "Sanofi"
+},
+"sapience-consultancy-research-pvt-ltd": {
+"buildings": [
+"n7021303685"
+],
+"jobs": 0,
+"name": "Sapience Consultancy & Research Pvt Ltd"
+},
+"sci-it-solutions-pvt-ltd-radiant-digital-solutions-pvt-ltd": {
+"buildings": [
+"n7021303686"
+],
+"jobs": 0,
+"name": "SCI IT Solutions Pvt Ltd/ Radiant Digital Solutions Pvt Ltd"
+},
+"seo-development-company": {
+"buildings": [
+"n7021303672"
+],
+"jobs": 0,
+"name": "Seo Development Company"
+},
+"sep-architects-pvt-ltd": {
+"buildings": [
+"w356020342"
+],
+"jobs": 0,
+"name": "Sep Architects Pvt Ltd."
+},
+"servcorp": {
+"buildings": [
+"w116078983"
+],
+"jobs": 0,
+"name": "Servcorp"
+},
+"shore-infotech-india-pvt": {
+"buildings": [
+"n7025820845"
+],
+"jobs": 0,
+"name": "Shore Infotech India pvt"
+},
+"shras-it-solutions-pvt-ltd": {
+"buildings": [
+"w356020342"
+],
+"jobs": 0,
+"name": "Shras IT Solutions Pvt Ltd"
+},
+"sigmoid": {
+"buildings": [],
+"jobs": 1,
+"name": "Sigmoid"
+},
+"sine90-software-labs-pvt-ltd": {
+"buildings": [
+"n7021303618"
+],
+"jobs": 0,
+"name": "Sine90 Software Labs Pvt Ltd"
+},
+"sk-fast-food": {
+"buildings": [
+"n7021303761"
+],
+"jobs": 0,
+"name": "SK Fast Food"
+},
+"skyroot-aerospace": {
+"buildings": [
+"n7967446220"
+],
+"jobs": 0,
+"name": "Skyroot Aerospace"
+},
+"smarttrak-solar-systems": {
+"buildings": [
+"n7021303679"
+],
+"jobs": 0,
+"name": "Smarttrak Solar Systems"
+},
+"sneha-software-solutions": {
+"buildings": [
+"n7025820839"
+],
+"jobs": 0,
+"name": "Sneha Software Solutions"
+},
+"softsol": {
+"buildings": [
+"w68883426"
+],
+"jobs": 0,
+"name": "SoftSol"
+},
+"software-engineering-research-centre": {
+"buildings": [
+"w1578309122"
+],
+"jobs": 0,
+"name": "Software Engineering Research Centre"
+},
+"southern-spice": {
+"buildings": [
+"n7025820824"
+],
+"jobs": 0,
+"name": "Southern Spice"
+},
+"sri-kakatiya-industries-india-pvt-ltd": {
+"buildings": [
+"n7025820808"
+],
+"jobs": 0,
+"name": "Sri Kakatiya Industries (India)Pvt.ltd"
+},
+"sri-technologies": {
+"buildings": [
+"n7385432960"
+],
+"jobs": 0,
+"name": "Sri Technologies"
+},
+"statestreet": {
+"buildings": [],
+"jobs": 19,
+"name": "State Street"
+},
+"sufisoft-pvt-ltd": {
+"buildings": [
+"w356020342"
+],
+"jobs": 0,
+"name": "Sufisoft Pvt Ltd"
+},
+"sutherland-global-service": {
+"buildings": [
+"n7244175919"
+],
+"jobs": 0,
+"name": "Sutherland Global Service"
+},
+"swan-environmental-pvt-ltd": {
+"buildings": [
+"w356182760"
+],
+"jobs": 0,
+"name": "Swan Environmental Pvt Ltd"
+},
+"syena-infosoft-pvt-ltd": {
+"buildings": [
+"n7021303676"
+],
+"jobs": 0,
+"name": "Syena Infosoft Pvt Ltd"
+},
+"synopsis": {
+"buildings": [
+"w342064508"
+],
+"jobs": 0,
+"name": "Synopsis"
+},
+"t-hub-phase-2": {
+"buildings": [
+"w1122214529"
+],
+"jobs": 0,
+"name": "T-Hub Phase 2"
+},
+"tata-consultancy": {
+"buildings": [
+"n6934788932"
+],
+"jobs": 0,
+"name": "tata consultancy"
+},
+"tau-films-india-pvt-ltd": {
+"buildings": [
+"n7021303687"
+],
+"jobs": 0,
+"name": "TAU Films India Pvt Ltd"
+},
+"tcs-deccan-park": {
+"buildings": [
+"w68883415"
+],
+"jobs": 0,
+"name": "TCS Deccan Park"
+},
+"teamworks-creative-solutions": {
+"buildings": [
+"n7021303675"
+],
+"jobs": 0,
+"name": "Teamworks Creative Solutions"
+},
+"techgallore-it-solutions": {
+"buildings": [
+"n7025820827"
+],
+"jobs": 0,
+"name": "Techgallore It Solutions"
+},
+"techmahindra-infocity": {
+"buildings": [
+"n6161344386"
+],
+"jobs": 0,
+"name": "TechMahindra Infocity"
+},
+"techmahindra-sez": {
+"buildings": [
+"n6161311486"
+],
+"jobs": 0,
+"name": "TechMahindra SEZ"
+},
+"technovert": {
+"buildings": [
+"n7025820844"
+],
+"jobs": 0,
+"name": "Technovert"
+},
+"teleperformance-limited": {
+"buildings": [
+"n10279728141"
+],
+"jobs": 0,
+"name": "Teleperformance Limited"
+},
+"telstra-hyderabad": {
+"buildings": [
+"w754163951"
+],
+"jobs": 0,
+"name": "Telstra Hyderabad"
+},
+"the-kovil": {
+"buildings": [
+"w356012748"
+],
+"jobs": 0,
+"name": "The Kovil"
+},
+"the-platina": {
+"buildings": [
+"w630865068"
+],
+"jobs": 0,
+"name": "The platina"
+},
+"thomsonreuters": {
+"buildings": [
+"w292769248"
+],
+"jobs": 1,
+"name": "Thomson Reuters"
+},
+"thoughtworks": {
+"buildings": [
+"n6585739364"
+],
+"jobs": 0,
+"name": "ThoughtWorks"
+},
+"tide": {
+"buildings": [],
+"jobs": 22,
+"name": "Tide"
+},
+"tollplus": {
+"buildings": [
+"w632251670"
+],
+"jobs": 0,
+"name": "Tollplus"
+},
+"trigeo-technologies": {
+"buildings": [
+"n6866164616",
+"w346764503"
+],
+"jobs": 0,
+"name": "Trigeo Technologies"
+},
+"uber": {
+"buildings": [
+"n12848304977"
+],
+"jobs": 0,
+"name": "Uber"
+},
+"uipath": {
+"buildings": [],
+"jobs": 2,
+"name": "UiPath"
+},
+"unify": {
+"buildings": [
+"w296969037"
+],
+"jobs": 0,
+"name": "UNIFY"
+},
+"united-technologies-corp": {
+"buildings": [
+"w502048933"
+],
+"jobs": 0,
+"name": "United Technologies Corp"
+},
+"utc-hyderabad-research-and-design-center": {
+"buildings": [
+"w502048933"
+],
+"jobs": 0,
+"name": "UTC Hyderabad Research and Design Center"
+},
+"value-labs": {
+"buildings": [
+"w89914126"
+],
+"jobs": 0,
+"name": "Value Labs"
+},
+"vanguard": {
+"buildings": [],
+"jobs": 25,
+"name": "Vanguard"
+},
+"varsity-management-pvt-ltd": {
+"buildings": [
+"n7025820819"
+],
+"jobs": 0,
+"name": "Varsity Management pvt ltd"
+},
+"vasista-enterprise-solutions-pvt-ltd": {
+"buildings": [
+"n7021303702"
+],
+"jobs": 0,
+"name": "Vasista Enterprise Solutions Pvt. Ltd."
+},
+"vatika": {
+"buildings": [
+"w342064508"
+],
+"jobs": 0,
+"name": "Vatika"
+},
+"velaga-soft-solutions-private-limited": {
+"buildings": [
+"n7021303699"
+],
+"jobs": 0,
+"name": "Velaga Soft Solutions Private Limited"
+},
+"venkateshwara-radium-and-rexine-works": {
+"buildings": [
+"n7025820922"
+],
+"jobs": 0,
+"name": "Venkateshwara Radium and Rexine Works"
+},
+"verudix-solutions-pvt-ltd": {
+"buildings": [
+"n7021303684"
+],
+"jobs": 0,
+"name": "Verudix Solutions Pvt Ltd"
+},
+"vindago-innovations": {
+"buildings": [
+"w776432080"
+],
+"jobs": 0,
+"name": "Vindago Innovations"
+},
+"vinsys-it-services-india-pvt-ltd": {
+"buildings": [
+"n7025820890"
+],
+"jobs": 0,
+"name": "Vinsys IT Services India Pvt Ltd."
+},
+"virchow-biotech-pvt-ltd": {
+"buildings": [
+"n7025820833"
+],
+"jobs": 0,
+"name": "Virchow Biotech Pvt Ltd"
+},
+"vision-india-infrastructure-private-limited": {
+"buildings": [
+"w346764503"
+],
+"jobs": 0,
+"name": "Vision India Infrastructure Private Limited"
+},
+"vns-makro-technologies-p-ltd": {
+"buildings": [
+"n7025820760"
+],
+"jobs": 0,
+"name": "VNS Makro Technologies (P) Ltd."
+},
+"voip-office-telecommunication-pvt-ltd": {
+"buildings": [
+"n7021303683"
+],
+"jobs": 0,
+"name": "VOIP Office Telecommunication pvt ltd"
+},
+"votigo-software-pvt-ltd": {
+"buildings": [
+"n7021303666"
+],
+"jobs": 0,
+"name": "Votigo Software Pvt Ltd"
+},
+"web-syn": {
+"buildings": [
+"n7025820754"
+],
+"jobs": 0,
+"name": "Web Syn"
+},
+"webfurther-india-pvt-ltd": {
+"buildings": [
+"n7021303682"
+],
+"jobs": 0,
+"name": "WebFurther India Pvt. Ltd."
+},
+"wells-fargo-tower-4": {
+"buildings": [
+"w1299545984"
+],
+"jobs": 0,
+"name": "Wells Fargo Tower 4"
+},
+"wellsfargo": {
+"buildings": [
+"n7248877411"
+],
+"jobs": 0,
+"name": "Wellsfargo"
+},
+"westernaqua": {
+"buildings": [
+"n7244256674"
+],
+"jobs": 0,
+"name": "Westernaqua"
+},
+"wipro-campus": {
+"buildings": [
+"w186440854"
+],
+"jobs": 0,
+"name": "Wipro Campus"
+},
+"yupptv-corporate-office": {
+"buildings": [
+"n7025820850"
+],
+"jobs": 0,
+"name": "YuppTV Corporate Office"
+},
+"zee-telugu-office": {
+"buildings": [
+"n7021303671"
+],
+"jobs": 0,
+"name": "Zee Telugu Office"
+},
+"zenoti": {
+"buildings": [],
+"jobs": 31,
+"name": "Zenoti"
+},
+"zeta": {
+"buildings": [],
+"jobs": 9,
+"name": "Zeta"
+},
+"zf-india-itc-u2": {
+"buildings": [
+"w689203497"
+],
+"jobs": 0,
+"name": "ZF India ITC U2"
+},
+"zf-technology-centre": {
+"buildings": [
+"w1235249271"
+],
+"jobs": 0,
+"name": "ZF Technology Centre"
+},
+"zoetis": {
+"buildings": [],
+"jobs": 10,
+"name": "Zoetis"
+},
+"zscaler": {
+"buildings": [
+"w68907576"
+],
+"jobs": 8,
+"name": "Zscaler"
+}
+}
