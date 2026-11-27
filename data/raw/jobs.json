@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26",
+ "fetched_at": "2026-11-27",
  "companies": {
   "highradius": [
    {
@@ -315,12 +315,6 @@
     "updated": "2026-11-23"
    },
    {
-    "title": "Senior Manager, Workforce Management",
-    "location": "Hyderabad, India",
-    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8417941",
-    "updated": "2026-11-25"
-   },
-   {
     "title": "Senior Security Operations Centre Specialist",
     "location": "Hyderabad, India",
     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8288907",
@@ -613,12 +607,6 @@
     "updated": "2026-11-23"
    },
    {
-    "title": "SAR Analyst,Fincrime Intelligence and Reporting, Ongoing Monitoring",
-    "location": "India, Hyderabad",
-    "url": "https://job-boards.greenhouse.io/tide/jobs/8206812003",
-    "updated": "2026-11-23"
-   },
-   {
     "title": "SAR Analyst, Fincrime Intelligence and Reporting, UK (6 month contract)",
     "location": "India, Hyderabad",
     "url": "https://job-boards.greenhouse.io/tide/jobs/8030448003",
@@ -684,6 +672,24 @@
   "accenture": [],
   "micron": [
    {
+    "title": "Senior GRC Analyst",
+    "location": "Hyderabad, Phoenix Aquila India",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-GRC-Analyst_JR118339",
+    "updated": ""
+   },
+   {
+    "title": "Engineer – DDEG Design Methodology",
+    "location": "Hyderabad, Phoenix Aquila India",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer--DDEG-Design-Methodology_JR109041",
+    "updated": ""
+   },
+   {
+    "title": "Senior Engineer – Machine Learning and Agentic AI – Advanced Patterning",
+    "location": "Hyderabad, Phoenix Aquila India",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer---Machine-Learning-and-Agentic-AI--Advanced-Patterning_JR118258",
+    "updated": ""
+   },
+   {
     "title": "Staff Engineer – ESSD Validation",
     "location": "Hyderabad, Phoenix Aquila India",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer---ESSD-Validation_JR110701",
@@ -699,12 +705,6 @@
     "title": "Staff Memory Design Engineer",
     "location": "Hyderabad, Phoenix Aquila India",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Memory-Design-Engineer_JR109677",
-    "updated": ""
-   },
-   {
-    "title": "Engineer",
-    "location": "Hyderabad, Phoenix Aquila India",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer_JR107840",
     "updated": ""
    },
    {
@@ -777,12 +777,6 @@
     "title": "Semiconductor Package Electrical Engineer",
     "location": "Hyderabad, Phoenix Aquila India",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Semiconductor-Package-Electrical-Engineer_JR111412",
-    "updated": ""
-   },
-   {
-    "title": "Intern",
-    "location": "Hyderabad, Phoenix Aquila India",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596",
     "updated": ""
    },
    {
@@ -1868,9 +1862,9 @@
   ],
   "roche": [
    {
-    "title": "Data Engineer Submission Data and Content Generation – Reuse – AIDCG – Pharma R D",
+    "title": "Analytics – Intelligence – Lead Analyst",
     "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Data-Engineer-Submission-Data-and-Content-Generation---Reuse--AIDCG----Pharma-R-D_202607-119638-1",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Analytics---Intelligence---Lead-Analyst_202607-119990",
     "updated": ""
    },
    {
@@ -2000,27 +1994,9 @@
     "updated": ""
    },
    {
-    "title": "Solution Architect – Pharma R D",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Solution-Architect---Pharma-R-D_202607-119584-1",
-    "updated": ""
-   },
-   {
-    "title": "DevOps Engineer Submission Data and Content Generation – Reuse – AIDCG – Pharma R D",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/DevOps-Engineer-Submission-Data-and-Content-Generation---Reuse--AIDCG----Pharma-R-D_202607-119672",
-    "updated": ""
-   },
-   {
     "title": "Automation Engineer Submission Data and Content Generation – Reuse – AIDCG – Pharma R D",
     "location": "Hyderabad",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Automation-Engineer-Submission-Data-and-Content-Generation---Reuse--AIDCG----Pharma-R-D_202607-119668",
-    "updated": ""
-   },
-   {
-    "title": "ERP Solution Consultant – EHS",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/ERP-Solution-Consultant---EHS_202607-119609",
     "updated": ""
    },
    {
@@ -2090,6 +2066,12 @@
     "updated": ""
    },
    {
+    "title": "ERP Solution Consultant – EHS",
+    "location": "Hyderabad",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/ERP-Solution-Consultant---EHS_202607-119609",
+    "updated": ""
+   },
+   {
     "title": "Solution Architect – US 360 Insights Engineering and Forecasting – RDT Pharma Medicines",
     "location": "Hyderabad",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Solution-Architect---US-360-Insights-Engineering-and-Forecasting---RDT-Pharma-Medicines_202607-119682",
@@ -2099,36 +2081,6 @@
     "title": "Developer Advocate",
     "location": "Hyderabad",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Developer-Advocate_202607-119653",
-    "updated": ""
-   },
-   {
-    "title": "Full Stack Software Engineer – Frontend – Backend – Cloud – Applied – Agentic AI Systems",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Full-Stack-Software-Engineer--Frontend--Backend---Cloud----Applied---Agentic-AI-Systems_202607-119640",
-    "updated": ""
-   },
-   {
-    "title": "Full Stack Software Engineer – Frontend – Backend – Cloud – Applied – Agentic AI Systems",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Full-Stack-Software-Engineer--Frontend--Backend---Cloud----Applied---Agentic-AI-Systems_202607-119639",
-    "updated": ""
-   },
-   {
-    "title": "Full Stack Software Engineer – Frontend – Backend – Cloud – Applied – Agentic AI Systems",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Full-Stack-Software-Engineer--Frontend--Backend---Cloud----Applied---Agentic-AI-Systems_202607-119627-1",
-    "updated": ""
-   },
-   {
-    "title": "Engagement Lead – Data Science",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Engagement-Lead---Data-Science_202611-128974",
-    "updated": ""
-   },
-   {
-    "title": "Data – Insights Enablement – Senior Analyst",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Data---Insights-Enablement---Senior-Analyst_202610-128001",
     "updated": ""
    },
    {
@@ -2156,33 +2108,9 @@
     "updated": ""
    },
    {
-    "title": "Fullstack Data Engineer – Applied – Agentic AI Systems",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Fullstack-Data-Engineer---Applied---Agentic-AI-Systems_202607-119680-1",
-    "updated": ""
-   },
-   {
-    "title": "Fullstack Data Engineer – Applied – Agentic AI Systems",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Fullstack-Data-Engineer---Applied---Agentic-AI-Systems_202607-119679",
-    "updated": ""
-   },
-   {
     "title": "Patient Strategy AWS Tech Lead",
     "location": "Hyderabad",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/Patient-Strategy-AWS-Tech-Lead_202607-119648",
-    "updated": ""
-   },
-   {
-    "title": "AI Solutiuons Architect",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/AI-Solutiuons-Architect_202607-119677",
-    "updated": ""
-   },
-   {
-    "title": "AI Solutiuons Architect",
-    "location": "Hyderabad",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Hyderabad/AI-Solutiuons-Architect_202607-119678",
     "updated": ""
    },
    {
@@ -2212,18 +2140,6 @@
     "updated": ""
    },
    {
-    "title": "Analyst – Proxy Voting",
-    "location": "Hyderabad Telangana",
-    "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Analyst---Proxy-Voting_R-12296",
-    "updated": ""
-   },
-   {
-    "title": "Analyst – Proxy Voting",
-    "location": "Hyderabad Telangana",
-    "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Analyst---Proxy-Voting_R-12298",
-    "updated": ""
-   },
-   {
     "title": "Senior Analyst – FP A",
     "location": "Hyderabad Telangana",
     "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Senior-Analyst--FP-A_R-14859",
@@ -2245,12 +2161,6 @@
     "title": "Senior Email Developer",
     "location": "Hyderabad Telangana",
     "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Senior-Email-Developer_R-16044",
-    "updated": ""
-   },
-   {
-    "title": "Reporting Analyst II",
-    "location": "Hyderabad Telangana",
-    "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Reporting-Analyst-II_R-15405",
     "updated": ""
    },
    {
@@ -2514,6 +2424,12 @@
   ],
   "lloyds": [
    {
+    "title": "CR Critical Controls Manager",
+    "location": "Hyderabad Knowledge Park Tower 2",
+    "url": "https://lbg.wd3.myworkdayjobs.com/Lloyds_Technology_Centre/job/Hyderabad-Knowledge-Park-Tower-2/CR-Critical-Controls-Manager_167315-1",
+    "updated": ""
+   },
+   {
     "title": "Senior Quality Engineer",
     "location": "Hyderabad Knowledge Park Tower 2",
     "url": "https://lbg.wd3.myworkdayjobs.com/Lloyds_Technology_Centre/job/Hyderabad-Knowledge-Park-Tower-2/Senior-Quality-Engineer_167286",
@@ -2535,12 +2451,6 @@
     "title": "Principal Software Engineer",
     "location": "Hyderabad Knowledge Park Tower 2",
     "url": "https://lbg.wd3.myworkdayjobs.com/Lloyds_Technology_Centre/job/Hyderabad-Knowledge-Park-Tower-2/Principal-Software-Engineer_163015",
-    "updated": ""
-   },
-   {
-    "title": "Senior DevOps Engineer",
-    "location": "Hyderabad Knowledge City LTC",
-    "url": "https://lbg.wd3.myworkdayjobs.com/Lloyds_Technology_Centre/job/Hyderabad-Knowledge-City-LTC/Senior-DevOps-Engineer_167039-1",
     "updated": ""
    },
    {
@@ -2718,12 +2628,6 @@
     "updated": ""
    },
    {
-    "title": "Service Specialist",
-    "location": "Hyderabad Knowledge Park Tower 2",
-    "url": "https://lbg.wd3.myworkdayjobs.com/Lloyds_Technology_Centre/job/Hyderabad-Knowledge-Park-Tower-2/Service-Specialist_163436-2",
-    "updated": ""
-   },
-   {
     "title": "Lead Software Engineer",
     "location": "Hyderabad Knowledge Park Tower 2",
     "url": "https://lbg.wd3.myworkdayjobs.com/Lloyds_Technology_Centre/job/Hyderabad-Knowledge-Park-Tower-2/Lead-Software-Engineer_163071",
@@ -2774,21 +2678,45 @@
   ],
   "msd": [
    {
-    "title": "Senior Specialist – Cybersecurity Engineering",
+    "title": "Senior Specialist – Software Engineering",
     "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
-    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Cybersecurity-Engineering_R418117-1",
+    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Software-Engineering_R427207-1",
     "updated": ""
    },
    {
-    "title": "Senior Specialist – Network Data Analytics – AI",
+    "title": "Specialist – SAP Data Analytics",
     "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
-    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Network-Data-Analytics---AI_R424520-1",
+    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Specialist--SAP-Data-Analytics_R418031-1",
     "updated": ""
    },
    {
-    "title": "Specialist – Data Analysis",
+    "title": "Specialist Software Engineering – Full Stack",
     "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
-    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Specialist--Data-Analysis_R424717-2",
+    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Specialist-Software-Engineering--Full-Stack_R427206-1",
+    "updated": ""
+   },
+   {
+    "title": "Senior Specialist – Market Research",
+    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
+    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Market-Research_R429714-1",
+    "updated": ""
+   },
+   {
+    "title": "Specialist – Software Engineering",
+    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
+    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Specialist--Software-Engineering_R423528-1",
+    "updated": ""
+   },
+   {
+    "title": "Associate Specialist – Veeva Configuration",
+    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
+    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Veeva-Configuration_R402311-1",
+    "updated": ""
+   },
+   {
+    "title": "Specialist – Brand Strategy Analytics – BSA",
+    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
+    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Specialist---Brand-Strategy-Analytics--BSA-_R429643-1",
     "updated": ""
    },
    {
@@ -2810,21 +2738,9 @@
     "updated": ""
    },
    {
-    "title": "Senior Specialist – Inference Engineering",
-    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
-    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Inference-Engineering_R427214-1",
-    "updated": ""
-   },
-   {
     "title": "Specialist – Data Engineering",
     "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
     "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Specialist--Data-Engineering_R428291-1",
-    "updated": ""
-   },
-   {
-    "title": "Specialist – Inference Engineering",
-    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
-    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Specialist--Inference-Engineering_R427211-1",
     "updated": ""
    },
    {
@@ -2888,18 +2804,6 @@
     "updated": ""
    },
    {
-    "title": "Associate Specialist – Manufacturing Automation",
-    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
-    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Manufacturing-Automation_R426971-1",
-    "updated": ""
-   },
-   {
-    "title": "Specialist – Manufacturing Automation",
-    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
-    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Specialist---Manufacturing-Automation_R428676-1",
-    "updated": ""
-   },
-   {
     "title": "Senior Specialist – Software Engineering – CIAM",
     "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
     "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Software-Engineering--CIAM-_R419529-1",
@@ -2909,12 +2813,6 @@
     "title": "Associate Director – RPA SWE AI Lead",
     "location": "IND, Telangana, Hyderabad",
     "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad/Associate-Director--RPA-SWE-AI-Lead_R427232",
-    "updated": ""
-   },
-   {
-    "title": "Reliability Engineer",
-    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
-    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Reliability-Engineer_R426988-1",
     "updated": ""
    },
    {
@@ -2942,21 +2840,9 @@
     "updated": ""
    },
    {
-    "title": "Senior Specialist – EHS Solution Architecture",
-    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
-    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--EHS-Solution-Architecture_R417341-1",
-    "updated": ""
-   },
-   {
     "title": "Spclst – Infrastructure Engineering",
     "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
     "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Spclst---Infrastructure-Engineering_R405260-1",
-    "updated": ""
-   },
-   {
-    "title": "Director – Data Products",
-    "location": "IND, Telangana, Hyderabad Hitec City Raidurg",
-    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Director---Data-Products_R406592",
     "updated": ""
    },
    {
@@ -2974,6 +2860,42 @@
   ],
   "vanguard": [
    {
+    "title": "Data Engineer – Specialist",
+    "location": "Hyderabad India",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Data-Engineer--Specialist_182577",
+    "updated": ""
+   },
+   {
+    "title": "Application Engineer III",
+    "location": "Hyderabad India",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineer-III_180486",
+    "updated": ""
+   },
+   {
+    "title": "Database Administrator – Specialist",
+    "location": "Hyderabad India",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Database-Administrator--Specialist_183043",
+    "updated": ""
+   },
+   {
+    "title": "End User Support Analyst – Senior Associate service desk agent",
+    "location": "Hyderabad India",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/End-User-Support-Analyst--Senior-Associate-service-desk-agent-_183046",
+    "updated": ""
+   },
+   {
+    "title": "AI Investigations – Enforcement Analyst",
+    "location": "Hyderabad India",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/AI-Investigations---Enforcement-Analyst_182433",
+    "updated": ""
+   },
+   {
+    "title": "Application Engineer – II Data – ESG Reference GIFS",
+    "location": "Hyderabad India",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineer---II-Data---ESG-Reference-GIFS_182443",
+    "updated": ""
+   },
+   {
     "title": "Application Engineering Technical Lead – II",
     "location": "Hyderabad India",
     "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineering-Technical-Lead---II_178345",
@@ -2986,21 +2908,9 @@
     "updated": ""
    },
    {
-    "title": "Application Engineering Technical Lead – II",
-    "location": "Hyderabad India",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineering-Technical-Lead---II_178343-1",
-    "updated": ""
-   },
-   {
     "title": "Application Engineer – III",
     "location": "Hyderabad India",
     "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineer---III_178296",
-    "updated": ""
-   },
-   {
-    "title": "Data Engineer – Specialist",
-    "location": "Hyderabad India",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Data-Engineer--Specialist_183948",
     "updated": ""
    },
    {
@@ -3052,18 +2962,6 @@
     "updated": ""
    },
    {
-    "title": "Quality Assurance Engineer – Specialist",
-    "location": "Hyderabad India",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Quality-Assurance-Engineer--Specialist_182566",
-    "updated": ""
-   },
-   {
-    "title": "Application Engineer – III – Sr AI Application Engineer",
-    "location": "Hyderabad India",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineer---III--Sr-AI-Application-Engineer_182535",
-    "updated": ""
-   },
-   {
     "title": "IAM Azure DevOps Engineer",
     "location": "Hyderabad India",
     "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/IAM-Azure-DevOps-Engineer_182497",
@@ -3088,21 +2986,9 @@
     "updated": ""
    },
    {
-    "title": "Application Engineer – I",
-    "location": "Hyderabad India",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Application-Engineer---I_182565",
-    "updated": ""
-   },
-   {
     "title": "Appian Technical Lead – II – FAST",
     "location": "Hyderabad India",
     "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Appian-Technical-Lead---II--FAST-_178518",
-    "updated": ""
-   },
-   {
-    "title": "Strategic Sourcing Analyst – Specialist",
-    "location": "Hyderabad India",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Strategic-Sourcing-Analyst--Specialist_174898",
     "updated": ""
    },
    {
@@ -3114,6 +3000,30 @@
   ],
   "pwc": [
    {
+    "title": "IN Senior Associate SAP CPI SAP Advisory Bangalore",
+    "location": "Hyderabad, Salarpuria",
+    "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-SAP-CPI-SAP-Advisory-Bangalore_747329WD-2",
+    "updated": ""
+   },
+   {
+    "title": "IN Senior Associate Azure Fabric Engineer Data Analytics Advisory Bangalore",
+    "location": "Hyderabad, Salarpuria",
+    "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Azure-Fabric-Engineer-Data-Analytics-Advisory-Bangalore_751842WD",
+    "updated": ""
+   },
+   {
+    "title": "Audit and Assurance – Internal Audit – Associate – CS – G_DB",
+    "location": "Hyderabad, Salarpuria",
+    "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/Audit-and-Assurance---Internal-Audit---Associate---CS---G_DB_010200-1",
+    "updated": ""
+   },
+   {
+    "title": "IN Manager SAP WM SAP Advisory Hyderabad",
+    "location": "Hyderabad, Salarpuria",
+    "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Manager-SAP-WM-SAP-Advisory-Hyderabad_749921WD-1",
+    "updated": ""
+   },
+   {
     "title": "IN Specialist – Power BI – Managed Services Advisory Hyderabad_DB",
     "location": "Hyderabad, Salarpuria",
     "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Specialist--Power-BI--Managed-Services-Advisory-Hyderabad_DB_010201-1",
@@ -3123,12 +3033,6 @@
     "title": "IN Manager SAP HCM SAP Advisory Hyderabad",
     "location": "Hyderabad, Salarpuria",
     "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Manager-SAP-HCM-SAP-Advisory-Hyderabad_749370WD",
-    "updated": ""
-   },
-   {
-    "title": "IN Senior Associate Tosca Automation GCC Advisory Bangalore",
-    "location": "Hyderabad, Salarpuria",
-    "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Tosca-Automation-GCC-Advisory-Bangalore_746249WD-1",
     "updated": ""
    },
    {
@@ -3418,6 +3322,12 @@
   ],
   "jnj": [
    {
+    "title": "Senior Manager – Research IT Systems",
+    "location": "Hyderabad Andhra Pradesh India",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Hyderabad-Andhra-Pradesh-India/Senior-Manager--Research-IT-Systems_R-113425",
+    "updated": ""
+   },
+   {
     "title": "Senior Principal Data Scientist",
     "location": "Hyderabad Andhra Pradesh India",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Hyderabad-Andhra-Pradesh-India/Senior-Principal-Data-Scientist_R-105144",
@@ -3510,6 +3420,12 @@
   ],
   "bofa": [
    {
+    "title": "Team Leader",
+    "location": "Hyderabad Telangana",
+    "url": "https://ghr.wd1.myworkdayjobs.com/lateral-ba_continuum/job/Hyderabad-Telangana/Team-Leader_26037940",
+    "updated": ""
+   },
+   {
     "title": "Team Member – R",
     "location": "Hyderabad Telangana",
     "url": "https://ghr.wd1.myworkdayjobs.com/lateral-ba_continuum/job/Hyderabad-Telangana/Team-Member--R_26017753",
@@ -3540,21 +3456,9 @@
     "updated": ""
    },
    {
-    "title": "Senior Operations Manager",
-    "location": "Hyderabad",
-    "url": "https://ghr.wd1.myworkdayjobs.com/lateral-ba_continuum/job/Hyderabad/Senior-Operations-Manager_26042903",
-    "updated": ""
-   },
-   {
     "title": "Senior Delivery Lead – Technology – GBS IND",
     "location": "Hyderabad",
     "url": "https://ghr.wd1.myworkdayjobs.com/lateral-ba_continuum/job/Hyderabad/Senior-Delivery-Lead---Technology---GBS-IND_26034826-1",
-    "updated": ""
-   },
-   {
-    "title": "Software Engineer III – GBS IND",
-    "location": "Hyderabad",
-    "url": "https://ghr.wd1.myworkdayjobs.com/lateral-ba_continuum/job/Hyderabad/Software-Engineer-III---GBS-IND_26036525",
     "updated": ""
    },
    {
@@ -3662,131 +3566,71 @@
     "updated": ""
    },
    {
-    "title": "Specialist – S P – Procurement Ops 4A",
-    "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Specialist---S-P---Procurement-Ops-4A_JR10037591",
-    "updated": ""
-   },
-   {
-    "title": "Sr Associate – Controllership – O2C 5B",
-    "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Associate---Controllership---O2C-5B_JR10037463",
-    "updated": ""
-   },
-   {
-    "title": "Sr Developer – SAP 4B",
-    "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Developer--SAP-4B_JR10037288",
-    "updated": ""
-   },
-   {
-    "title": "Sr Associate – F A – I2C 5B",
-    "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Associate---F-A---I2C-5B_JR10037462",
-    "updated": ""
-   },
-   {
-    "title": "Sr Associate – S P – Procurement Ops 5B",
-    "location": "1401 G India DSL Abacus IT Park Uppal Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-DSL-Abacus-IT-Park-Uppal-Hyderabad/Sr-Associate---S-P---Procurement-Ops-5B_JR10037445",
-    "updated": ""
-   },
-   {
-    "title": "Sr Associate – Regulatory Affairs – Operations 5B",
-    "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Associate---Regulatory-Affairs---Operations-5B_JR10036059",
-    "updated": ""
-   },
-   {
-    "title": "Sr Associate – F A – AP 5B",
+    "title": "Sr Developer – ServiceNow 4B",
     "location": "1401 G India 14 45 Uppal STPI Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Sr-Associate---F-A---AP-5B_JR10036865",
+    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Sr-Developer--ServiceNow-4B_JR10037781",
     "updated": ""
    },
    {
-    "title": "Sr Associate – F A – AP 5B",
-    "location": "1401 G India 14 45 Uppal LR STPI Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-14-45-Uppal-LR-STPI-Hyderabad/Sr-Associate---F-A---AP-5B_JR10037465",
+    "title": "Architect – Oracle 4D",
+    "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
+    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Architect--Oracle-4D_JR10035016",
+    "updated": ""
+   },
+   {
+    "title": "Sr Data Engineer 4B",
+    "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
+    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Data-Engineer-4B_JR10037556",
     "updated": ""
    },
    {
     "title": "Associate – F A – AP 5A",
     "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Associate---F-A---AP-5A_JR10037499",
+    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Associate---F-A---AP-5A_JR10037627",
     "updated": ""
    },
    {
-    "title": "Lead Process Mining Analyst 4C",
+    "title": "Sr Data Engineer 4B",
     "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Lead-Process-Mining-Analyst-4C_JR10037134-2",
+    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Data-Engineer-4B_JR10037198",
     "updated": ""
    },
    {
-    "title": "Specialist – F A – R2R 4A",
-    "location": "1401 G India DSL Abacus IT Park Uppal Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-DSL-Abacus-IT-Park-Uppal-Hyderabad/Specialist---F-A---R2R-4A_JR10020944-1",
-    "updated": ""
-   },
-   {
-    "title": "Consultant – SAP 4A",
+    "title": "Architect – Enterprise Application Oracle S 4D",
     "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Consultant--SAP-4A_JR10036138",
+    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Architect---Enterprise-Application-Oracle-S-4D_JR10020015",
     "updated": ""
    },
    {
-    "title": "Associate – F A – AP 5A",
-    "location": "1401 G India 14 45 Uppal STPI Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Associate---F-A---AP-5A_JR10036851",
-    "updated": ""
-   },
-   {
-    "title": "Sr Associate – F A – AP 5B",
+    "title": "Sr Data Engineer 4B",
     "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Associate---F-A---AP-5B_JR10037452-1",
-    "updated": ""
-   },
-   {
-    "title": "DNU Developer – Enterprise Application – Oracle N 4A",
-    "location": "1401 G India 14 45 Uppal LR STPI Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-14-45-Uppal-LR-STPI-Hyderabad/DNU-Developer---Enterprise-Application---Oracle-N-4A_JR10035274",
-    "updated": ""
-   },
-   {
-    "title": "DNU Developer – Enterprise Application – Oracle N 4A",
-    "location": "1401 G India 14 45 Uppal LR STPI Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-14-45-Uppal-LR-STPI-Hyderabad/DNU-Developer---Enterprise-Application---Oracle-N-4A_JR10035275",
-    "updated": ""
-   },
-   {
-    "title": "DNU Developer – Enterprise Application – Oracle N 4A",
-    "location": "1401 G India 14 45 Uppal LR STPI Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-14-45-Uppal-LR-STPI-Hyderabad/DNU-Developer---Enterprise-Application---Oracle-N-4A_JR10035277",
-    "updated": ""
-   },
-   {
-    "title": "Sr Tech Lead – Cloud – Infra Services 4D",
-    "location": "1401 G India Floor 1 to 12 Hafeezpet Phoenix Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Tech-Lead--Cloud---Infra-Services-4D_JR10037406",
-    "updated": ""
-   },
-   {
-    "title": "Engineer – Application Support 4A",
-    "location": "1401 G India 14 45 Uppal LR STPI Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-14-45-Uppal-LR-STPI-Hyderabad/Engineer--Application-Support-4A_JR10036568",
-    "updated": ""
-   },
-   {
-    "title": "Associate – HRO – Payroll – Benefits 5A",
-    "location": "1401 G India 14 45 Uppal STPI Hyderabad",
-    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Associate---HRO---Payroll---Benefits-5A_JR10037384",
+    "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Data-Engineer-4B_JR10037193",
     "updated": ""
    }
   ],
   "amgen": [
    {
-    "title": "Sr Associate IS Bus Sys Analyst",
+    "title": "Sr Associate Software Engineer",
     "location": "India, Hyderabad",
-    "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-IS-Bus-Sys-Analyst_R-254041",
+    "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Software-Engineer_R-262914",
+    "updated": ""
+   },
+   {
+    "title": "Business Intelligence Sr Associate",
+    "location": "India, Hyderabad",
+    "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Business-Intelligence-Sr-Associate_R-231458",
+    "updated": ""
+   },
+   {
+    "title": "Pharmacovigilance Operations Sr Manager",
+    "location": "India, Hyderabad",
+    "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Pharmacovigilance-Operations-Sr-Manager_R-262314-1",
+    "updated": ""
+   },
+   {
+    "title": "Data Science Manager",
+    "location": "India, Hyderabad",
+    "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Science-Manager_R-261728",
     "updated": ""
    },
    {
@@ -3888,15 +3732,45 @@
     "location": "IN TS HYDERABAD B3F7  DLF Cybercity Gachibowli  DLF CYBERCITY GACHIBOWLI B3F7 7th Fl in Block 3",
     "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-TS-HYDERABAD-B3F7--DLF-Cybercity-Gachibowli--DLF-CYBERCITY-GACHIBOWLI-B3F7-7th-Fl-in-Block-3/Principal-Engineer--Hybrid-_01865212",
     "updated": ""
-   },
-   {
-    "title": "Associate Engineer Mechanical Design – Hybrid",
-    "location": "IN TS HYDERABAD 012  Plot No 12  SARVOTHAM BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-TS-HYDERABAD-012--Plot-No-12--SARVOTHAM-BLDG/Associate-Engineer-Mechanical-Design--Hybrid-_01877877",
-    "updated": ""
    }
   ],
   "statestreet": [
+   {
+    "title": "Middle Office – Officer",
+    "location": "Hyderabad India",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Middle-Office---Officer_R-801431",
+    "updated": ""
+   },
+   {
+    "title": "Reference Data Management – Assistant Manager",
+    "location": "Hyderabad India",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Reference-Data-Management--Assistant-Manager_R-801578",
+    "updated": ""
+   },
+   {
+    "title": "Senior Technical Consultant – Officer",
+    "location": "Hyderabad India",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Technical-Consultant--Officer_R-801563",
+    "updated": ""
+   },
+   {
+    "title": "Collateral Management – Manager",
+    "location": "Hyderabad India",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Collateral-Management---Manager_R-798847",
+    "updated": ""
+   },
+   {
+    "title": "ServiceNow Developer – Officer",
+    "location": "Hyderabad India",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/ServiceNow-Developer---Officer_R-799074",
+    "updated": ""
+   },
+   {
+    "title": "Managing Director – Implementation Center of Excellence – iCoE – PMO",
+    "location": "Hyderabad India",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Managing-Director---Implementation-Center-of-Excellence--iCoE--PMO_R-798065",
+    "updated": ""
+   },
    {
     "title": "Software Engineering – Development – Officer",
     "location": "Hyderabad India",
@@ -3934,15 +3808,9 @@
     "updated": ""
    },
    {
-    "title": "Finance Systems Services – Team Lead",
+    "title": "Managing Director – Implementation Center of Excellence – iCoE – PMO",
     "location": "Hyderabad India",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Finance-Systems-Services---Team-Lead_R-795861",
-    "updated": ""
-   },
-   {
-    "title": "Secured Finance Emerging Lead",
-    "location": "Hyderabad India",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Secured-Finance-Emerging-Lead_R-801285-1",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/eQuest/job/Hyderabad-India/Managing-Director---Implementation-Center-of-Excellence--iCoE--PMO_R-798065-2",
     "updated": ""
    },
    {
@@ -3982,7 +3850,74 @@
     "updated": ""
    }
   ],
-  "sanofi": [],
+  "sanofi": [
+   {
+    "title": "Senior Scientific Writer",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Scientific-Writer_R2865884",
+    "updated": ""
+   },
+   {
+    "title": "Senior Analyst Market Research – MRCI",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-Market-Research---MRCI-_R2880598",
+    "updated": ""
+   },
+   {
+    "title": "Senior Analyst Market Research – MRCI",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-Market-Research---MRCI-_R2880600",
+    "updated": ""
+   },
+   {
+    "title": "Analyst – Business Analytics",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Analyst---Business-Analytics_R2879839",
+    "updated": ""
+   },
+   {
+    "title": "Manager – Business Analytics",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Manager---Business-Analytics_R2880167",
+    "updated": ""
+   },
+   {
+    "title": "Senior Data Analyst – R D Portfolio Data Strategy – Insights",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Data-Analyst---R-D-Portfolio-Data-Strategy---Insights_R2872418",
+    "updated": ""
+   },
+   {
+    "title": "Senior Analyst – Data and Process Management",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst--Data-and-Process-Management_R2869335",
+    "updated": ""
+   },
+   {
+    "title": "Senior Analyst – Data – Process Management",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst---Data---Process-Management_R2880352",
+    "updated": ""
+   },
+   {
+    "title": "Manager – Data – Process Management",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Manager---Data---Process-Management_R2880342",
+    "updated": ""
+   },
+   {
+    "title": "Accounting Analyst – A2R Cash Accounting",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Accounting-Analyst---A2R-Cash-Accounting_R2874481",
+    "updated": ""
+   },
+   {
+    "title": "Junior Drawer – CAD services",
+    "location": "Hyderabad",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Junior-Drawer---CAD-services_R2879159",
+    "updated": ""
+   }
+  ],
   "evernorth": [
    {
     "title": "HIH – Financial Analysis Senior Analyst",
@@ -4000,18 +3935,6 @@
     "title": "HIH – Software Engineering Advisor",
     "location": "Hyderabad India",
     "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-Advisor_26011633",
-    "updated": ""
-   },
-   {
-    "title": "User Experience Design Senior Analyst – HIH – Evernorth",
-    "location": "Hyderabad India",
-    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/User-Experience-Design-Senior-Analyst---HIH---Evernorth_26014008",
-    "updated": ""
-   },
-   {
-    "title": "HIH Program Management Senior Analyst",
-    "location": "Hyderabad India",
-    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH-Program-Management-Senior-Analyst_26013116",
     "updated": ""
    },
    {
@@ -4035,6 +3958,30 @@
   ],
   "novartis": [
    {
+    "title": "Expert Solution Architect – Clinical Data Analytics – Technology",
+    "location": "Hyderabad Office",
+    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Expert-Solution-Architect--Clinical-Data-Analytics---Technology_REQ-10089697-1",
+    "updated": ""
+   },
+   {
+    "title": "Director DDIT IES CHS AWS Engineering",
+    "location": "Hyderabad Office",
+    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Director-DDIT-IES-CHS-AWS-Engineering_REQ-10087036",
+    "updated": ""
+   },
+   {
+    "title": "Sr IT Specialist for Treasury Solutions",
+    "location": "Hyderabad Office",
+    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-IT-Specialist-for-Treasury-Solutions_REQ-10092476",
+    "updated": ""
+   },
+   {
+    "title": "Manager Digital Finance",
+    "location": "Hyderabad Office",
+    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Manager-Digital-Finance_REQ-10092736",
+    "updated": ""
+   },
+   {
     "title": "Senior Specialist Security Architecture AI",
     "location": "Hyderabad Office",
     "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Specialist-Security-Architecture-AI_REQ-10090934",
@@ -4050,12 +3997,6 @@
     "title": "Associate Director – AI Security Architecture",
     "location": "Hyderabad Office",
     "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director--AI-Security-Architecture_REQ-10091612",
-    "updated": ""
-   },
-   {
-    "title": "Associate Director – Digital Transformation – Business Excellence",
-    "location": "Hyderabad Office",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director---Digital-Transformation---Business-Excellence_REQ-10085494",
     "updated": ""
    },
    {
@@ -4075,51 +4016,15 @@
     "location": "Hyderabad Office",
     "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Digital-Finance-Compliance-Manager_REQ-10093724",
     "updated": ""
-   },
-   {
-    "title": "Dir DDIT US I SolDelJP – APMA",
-    "location": "Hyderabad Office",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Dir-DDIT-US-I-SolDelJP---APMA_REQ-10093681",
-    "updated": ""
-   },
-   {
-    "title": "Data Engineer",
-    "location": "Hyderabad Office",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Data-Engineer_REQ-10093347",
-    "updated": ""
-   },
-   {
-    "title": "AI Engineer",
-    "location": "Hyderabad Office",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/AI-Engineer_REQ-10093342",
-    "updated": ""
-   },
-   {
-    "title": "ESO Regulatory CMC facilitator",
-    "location": "Hyderabad Office",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/ESO-Regulatory-CMC-facilitator_REQ-10091301-1",
-    "updated": ""
-   },
-   {
-    "title": "Central Monitor – Data Surveillance Lead",
-    "location": "Hyderabad Office",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Central-Monitor--Data-Surveillance-Lead-_REQ-10089008-1",
-    "updated": ""
-   },
-   {
-    "title": "Associate Global Regulatory Manager – GRSS C",
-    "location": "Hyderabad Office",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Global-Regulatory-Manager--GRSS-C_REQ-10089481",
-    "updated": ""
-   },
-   {
-    "title": "Global Regulatory Manager – GRSS C",
-    "location": "Hyderabad Office",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Global-Regulatory-Manager--GRSS-C_REQ-10089484",
-    "updated": ""
    }
   ],
   "medtronic": [
+   {
+    "title": "Senior IT Manager – I O and AI",
+    "location": "Nanakramguda Hyderabad India",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-IT-Manager---I-O-and-AI_R75088-2",
+    "updated": ""
+   },
    {
     "title": "Senior Hyperautomation Solution Architect",
     "location": "Nanakramguda Hyderabad India",
@@ -4131,51 +4036,15 @@
     "location": "Nanakramguda Hyderabad India",
     "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Enterprise-Software-Test-Engineer_R72953-1",
     "updated": ""
-   },
-   {
-    "title": "Senior IT Manager – I O and AI",
-    "location": "Nanakramguda Hyderabad India",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-IT-Manager---I-O-and-AI_R75088-2",
-    "updated": ""
-   },
-   {
-    "title": "IT Developer – LLM Engineer",
-    "location": "Nanakramguda Hyderabad India",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/IT-Developer---LLM-Engineer_R80661-1",
-    "updated": ""
-   },
-   {
-    "title": "IT Developer – Backend Developer",
-    "location": "Nanakramguda Hyderabad India",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/IT-Developer---Backend-Developer_R80660-1",
-    "updated": ""
-   },
-   {
-    "title": "Principal IT Technologist – Product Analyst",
-    "location": "Nanakramguda Hyderabad India",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-IT-Technologist---Product-Analyst_R81935",
-    "updated": ""
-   },
-   {
-    "title": "IT Quality Systems Specialist – CAPA",
-    "location": "Nanakramguda Hyderabad India",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/IT-Quality-Systems-Specialist---CAPA_R81374-2",
-    "updated": ""
-   },
-   {
-    "title": "Software Dev Ops Engineer II",
-    "location": "Nanakramguda Hyderabad India",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Software-Dev-Ops-Engineer-II_R76946-1",
-    "updated": ""
-   },
-   {
-    "title": "Facilities Admin Specialist",
-    "location": "Nanakramguda Hyderabad India",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Facilities-Admin-Specialist_R77207-2",
-    "updated": ""
    }
   ],
   "broadridge": [
+   {
+    "title": "Technology Lead – Network Automation",
+    "location": "Hyderabad Hi Tec City",
+    "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/Hyderabad-Hi-Tec-City/Technology-Lead---Network-Automation_JR1087380",
+    "updated": ""
+   },
    {
     "title": "S2P System Configuration Administrator – Senior Member Technical",
     "location": "Hyderabad Hi Tec City",
@@ -4247,9 +4116,27 @@
   ],
   "thomsonreuters": [
    {
+    "title": "Staff Software Engineer",
+    "location": "India Hyderabad Telangana",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Staff-Software-Engineer_JREQ201518",
+    "updated": ""
+   },
+   {
+    "title": "Manager – Sales Operations",
+    "location": "India Hyderabad Telangana",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Manager--Sales-Operations_JREQ205076",
+    "updated": ""
+   },
+   {
     "title": "Analyst – Global Trade Content",
     "location": "India Hyderabad Telangana",
     "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Analyst---Global-Trade-Content_JREQ203845",
+    "updated": ""
+   },
+   {
+    "title": "Inclusion – Belonging Intern",
+    "location": "India Hyderabad Telangana",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/Private_External_Career_Site/job/India-Hyderabad-Telangana/Inclusion---Belonging-Intern_JREQ204917",
     "updated": ""
    },
    {
@@ -4293,6 +4180,30 @@
   ],
   "salesforce": [
    {
+    "title": "Contract Sales Operations Associate Analyst",
+    "location": "India, Hyderabad",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Contract-Sales-Operations-Associate-Analyst_JR367849",
+    "updated": ""
+   },
+   {
+    "title": "Salesforce Success Architect – Agentforce",
+    "location": "India, Hyderabad",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Salesforce-Success-Architect--Agentforce-_JR330045-1",
+    "updated": ""
+   },
+   {
+    "title": "Customer Success Manager – Marketing Cloud",
+    "location": "India, Hyderabad",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Customer-Success-Manager--Marketing-Cloud_JR358525-1",
+    "updated": ""
+   },
+   {
+    "title": "Senior Manager – Software Engineering – Workday HCM Financials – Integrations",
+    "location": "India, Hyderabad",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Manager--Software-Engineering--Workday-HCM-Financials---Integrations_JR363947",
+    "updated": ""
+   },
+   {
     "title": "Agentic People Service Lead – Employee Success Operations – APAC – Individual Contributor",
     "location": "India, Hyderabad",
     "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Agentic-People-Service-Lead--Employee-Success-Operations---APAC--Individual-Contributor-_JR364835",
@@ -4302,18 +4213,6 @@
     "title": "Senior Technical Consultant",
     "location": "India, Hyderabad",
     "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Technical-Consultant_JR362083",
-    "updated": ""
-   },
-   {
-    "title": "Customer Success Manager – Tableau Exp Mandatory – AMER Shift",
-    "location": "India, Hyderabad",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Customer-Success-Manager--Tableau-Exp-Mandatory--AMER-Shift_JR365355",
-    "updated": ""
-   },
-   {
-    "title": "Contract Sales Operations Associate Analyst",
-    "location": "India, Hyderabad",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Contract-Sales-Operations-Associate-Analyst_JR367849",
     "updated": ""
    },
    {
@@ -4357,12 +4256,6 @@
   ],
   "elevance": [
    {
-    "title": "TE 39656 70580 Growth – Software Engineer III – AI – IND",
-    "location": "IND TG Hyderabad Avance Business Hub",
-    "url": "https://elevancehealth.wd1.myworkdayjobs.com/carelonglobal_in/job/IND-TG-Hyderabad-Avance-Business-Hub/TE-39656-70580-Growth---Software-Engineer-III---AI--IND-_JR213252",
-    "updated": ""
-   },
-   {
     "title": "Procurement Senior Associate VMA CO GR 29972 47245 3 JR211152",
     "location": "IND TG Hyderabad Avance Business Hub",
     "url": "https://elevancehealth.wd1.myworkdayjobs.com/carelonglobal_in/job/IND-TG-Hyderabad-Avance-Business-Hub/Procurement-Senior-Associate-VMA-CO-GR-29972-47245-3-JR211152_JR211152-1",
@@ -4375,14 +4268,7 @@
     "updated": ""
    }
   ],
-  "pg": [
-   {
-    "title": "Senior AI Engineer",
-    "location": "HYDERABAD OFFICE INDIA PSC PGH",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-INDIA-PSC-PGH/Senior-AI-Engineer_R000161877",
-    "updated": ""
-   }
-  ],
+  "pg": [],
   "marvell": [
    {
     "title": "Research Intern – Physical AI and GPU – PhD",
@@ -4400,6 +4286,18 @@
    }
   ],
   "carrier": [
+   {
+    "title": "Senior Design Engineer",
+    "location": "Building No 12C Floor 91011 Building No 12B  Stilt floor Raheja Mindspace Cyberabad Madhapur Hyderabad, 500081 Telangana India",
+    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12C-Floor-91011-Building-No-12B--Stilt-floor-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Senior-Design-Engineer_30220665",
+    "updated": ""
+   },
+   {
+    "title": "Senior Lead Engineer",
+    "location": "Building No 12C Floor 91011 Building No 12B  Stilt floor Raheja Mindspace Cyberabad Madhapur Hyderabad, 500081 Telangana India",
+    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12C-Floor-91011-Building-No-12B--Stilt-floor-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Senior-Lead-Engineer_30218750",
+    "updated": ""
+   },
    {
     "title": "Associate Manager Procurement – Plastics",
     "location": "Building No 12C Floor 91011 Building No 12B  Stilt floor Raheja Mindspace Cyberabad Madhapur Hyderabad, 500081 Telangana India",
@@ -4461,8 +4359,24 @@
     "updated": "2026-10-28"
    }
   ],
-  "thoughtworks": [],
-  "coupa": [],
+  "thoughtworks": [
+   {
+    "title": " Senior Industry Expert (R14990)",
+    "location": "Bangalore - Koramangala / Hyderabad / Gurgaon - Ascendas / Chennai / Pune / Coimbatore",
+    "url": "https://jobs.ashbyhq.com/thoughtworks/62de561f-b140-49df-97ff-33c488077598",
+    "team": "Global Operations",
+    "updated": "2026-11-26"
+   }
+  ],
+  "coupa": [
+   {
+    "title": "Sr. Product Manager - Supply Chain Data Platform",
+    "location": "Bangalore, India",
+    "url": "https://jobs.lever.co/coupa/83d6c2db-0807-4c1f-90d1-94a298752a75",
+    "team": "Product Management",
+    "updated": "2026-11-18"
+   }
+  ],
   "egen": [
    {
     "title": "Lead Cloud Infrastructure Engineer (GCP)",
@@ -4695,7 +4609,7 @@
     "updated": "2026-10-26"
    },
    {
-    "title": "Technical Support Engineer I",
+    "title": "Technical Support Engineer I/II",
     "location": "Hyderabad",
     "url": "https://jobs.lever.co/zeta/d7608271-a46f-4783-b5a9-05737398d320",
     "team": "WIN Optum",
